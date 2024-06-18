@@ -1,0 +1,3029 @@
+(['E:\\projects\\амосрм обнова\\main.py'],
+ ['E:\\projects\\амосрм обнова'],
+ [],
+ ['E:\\projects\\амосрм '
+  'обнова\\venv\\Lib\\site-packages\\_pyinstaller_hooks_contrib\\hooks\\stdhooks',
+  'E:\\projects\\амосрм '
+  'обнова\\venv\\Lib\\site-packages\\_pyinstaller_hooks_contrib\\hooks'],
+ {},
+ [],
+ [],
+ False,
+ {},
+ 0,
+ [],
+ [],
+ '3.11.9 (tags/v3.11.9:de54cf5, Apr  2 2024, 10:12:12) [MSC v.1938 64 bit '
+ '(AMD64)]',
+ [('pyi_rth_inspect',
+   'E:\\projects\\амосрм '
+   'обнова\\venv\\Lib\\site-packages\\PyInstaller\\hooks\\rthooks\\pyi_rth_inspect.py',
+   'PYSOURCE'),
+  ('pyi_rth_pkgutil',
+   'E:\\projects\\амосрм '
+   'обнова\\venv\\Lib\\site-packages\\PyInstaller\\hooks\\rthooks\\pyi_rth_pkgutil.py',
+   'PYSOURCE'),
+  ('pyi_rth_multiprocessing',
+   'E:\\projects\\амосрм '
+   'обнова\\venv\\Lib\\site-packages\\PyInstaller\\hooks\\rthooks\\pyi_rth_multiprocessing.py',
+   'PYSOURCE'),
+  ('main', 'E:\\projects\\амосрм обнова\\main.py', 'PYSOURCE')],
+ [('multiprocessing.popen_forkserver',
+   'C:\\python\\Lib\\multiprocessing\\popen_forkserver.py',
+   'PYMODULE'),
+  ('multiprocessing.connection',
+   'C:\\python\\Lib\\multiprocessing\\connection.py',
+   'PYMODULE'),
+  ('multiprocessing.resource_sharer',
+   'C:\\python\\Lib\\multiprocessing\\resource_sharer.py',
+   'PYMODULE'),
+  ('multiprocessing.process',
+   'C:\\python\\Lib\\multiprocessing\\process.py',
+   'PYMODULE'),
+  ('signal', 'C:\\python\\Lib\\signal.py', 'PYMODULE'),
+  ('selectors', 'C:\\python\\Lib\\selectors.py', 'PYMODULE'),
+  ('xmlrpc.client', 'C:\\python\\Lib\\xmlrpc\\client.py', 'PYMODULE'),
+  ('xmlrpc', 'C:\\python\\Lib\\xmlrpc\\__init__.py', 'PYMODULE'),
+  ('gzip', 'C:\\python\\Lib\\gzip.py', 'PYMODULE'),
+  ('argparse', 'C:\\python\\Lib\\argparse.py', 'PYMODULE'),
+  ('textwrap', 'C:\\python\\Lib\\textwrap.py', 'PYMODULE'),
+  ('shutil', 'C:\\python\\Lib\\shutil.py', 'PYMODULE'),
+  ('zipfile', 'C:\\python\\Lib\\zipfile.py', 'PYMODULE'),
+  ('py_compile', 'C:\\python\\Lib\\py_compile.py', 'PYMODULE'),
+  ('importlib.machinery',
+   'C:\\python\\Lib\\importlib\\machinery.py',
+   'PYMODULE'),
+  ('importlib', 'C:\\python\\Lib\\importlib\\__init__.py', 'PYMODULE'),
+  ('importlib._bootstrap',
+   'C:\\python\\Lib\\importlib\\_bootstrap.py',
+   'PYMODULE'),
+  ('importlib._bootstrap_external',
+   'C:\\python\\Lib\\importlib\\_bootstrap_external.py',
+   'PYMODULE'),
+  ('importlib.metadata',
+   'C:\\python\\Lib\\importlib\\metadata\\__init__.py',
+   'PYMODULE'),
+  ('typing', 'C:\\python\\Lib\\typing.py', 'PYMODULE'),
+  ('importlib.abc', 'C:\\python\\Lib\\importlib\\abc.py', 'PYMODULE'),
+  ('importlib.resources.abc',
+   'C:\\python\\Lib\\importlib\\resources\\abc.py',
+   'PYMODULE'),
+  ('importlib.resources',
+   'C:\\python\\Lib\\importlib\\resources\\__init__.py',
+   'PYMODULE'),
+  ('importlib.resources._legacy',
+   'C:\\python\\Lib\\importlib\\resources\\_legacy.py',
+   'PYMODULE'),
+  ('importlib.resources._common',
+   'C:\\python\\Lib\\importlib\\resources\\_common.py',
+   'PYMODULE'),
+  ('importlib.resources._adapters',
+   'C:\\python\\Lib\\importlib\\resources\\_adapters.py',
+   'PYMODULE'),
+  ('importlib._abc', 'C:\\python\\Lib\\importlib\\_abc.py', 'PYMODULE'),
+  ('importlib.metadata._itertools',
+   'C:\\python\\Lib\\importlib\\metadata\\_itertools.py',
+   'PYMODULE'),
+  ('importlib.metadata._functools',
+   'C:\\python\\Lib\\importlib\\metadata\\_functools.py',
+   'PYMODULE'),
+  ('importlib.metadata._collections',
+   'C:\\python\\Lib\\importlib\\metadata\\_collections.py',
+   'PYMODULE'),
+  ('importlib.metadata._meta',
+   'C:\\python\\Lib\\importlib\\metadata\\_meta.py',
+   'PYMODULE'),
+  ('importlib.metadata._adapters',
+   'C:\\python\\Lib\\importlib\\metadata\\_adapters.py',
+   'PYMODULE'),
+  ('importlib.metadata._text',
+   'C:\\python\\Lib\\importlib\\metadata\\_text.py',
+   'PYMODULE'),
+  ('email.message', 'C:\\python\\Lib\\email\\message.py', 'PYMODULE'),
+  ('email.policy', 'C:\\python\\Lib\\email\\policy.py', 'PYMODULE'),
+  ('email.contentmanager',
+   'C:\\python\\Lib\\email\\contentmanager.py',
+   'PYMODULE'),
+  ('email.quoprimime', 'C:\\python\\Lib\\email\\quoprimime.py', 'PYMODULE'),
+  ('string', 'C:\\python\\Lib\\string.py', 'PYMODULE'),
+  ('email.headerregistry',
+   'C:\\python\\Lib\\email\\headerregistry.py',
+   'PYMODULE'),
+  ('email._header_value_parser',
+   'C:\\python\\Lib\\email\\_header_value_parser.py',
+   'PYMODULE'),
+  ('urllib', 'C:\\python\\Lib\\urllib\\__init__.py', 'PYMODULE'),
+  ('email.iterators', 'C:\\python\\Lib\\email\\iterators.py', 'PYMODULE'),
+  ('email.generator', 'C:\\python\\Lib\\email\\generator.py', 'PYMODULE'),
+  ('random', 'C:\\python\\Lib\\random.py', 'PYMODULE'),
+  ('statistics', 'C:\\python\\Lib\\statistics.py', 'PYMODULE'),
+  ('fractions', 'C:\\python\\Lib\\fractions.py', 'PYMODULE'),
+  ('numbers', 'C:\\python\\Lib\\numbers.py', 'PYMODULE'),
+  ('hashlib', 'C:\\python\\Lib\\hashlib.py', 'PYMODULE'),
+  ('bisect', 'C:\\python\\Lib\\bisect.py', 'PYMODULE'),
+  ('email._encoded_words',
+   'C:\\python\\Lib\\email\\_encoded_words.py',
+   'PYMODULE'),
+  ('email.charset', 'C:\\python\\Lib\\email\\charset.py', 'PYMODULE'),
+  ('email.encoders', 'C:\\python\\Lib\\email\\encoders.py', 'PYMODULE'),
+  ('email.base64mime', 'C:\\python\\Lib\\email\\base64mime.py', 'PYMODULE'),
+  ('email._policybase', 'C:\\python\\Lib\\email\\_policybase.py', 'PYMODULE'),
+  ('email.header', 'C:\\python\\Lib\\email\\header.py', 'PYMODULE'),
+  ('email.errors', 'C:\\python\\Lib\\email\\errors.py', 'PYMODULE'),
+  ('email.utils', 'C:\\python\\Lib\\email\\utils.py', 'PYMODULE'),
+  ('email._parseaddr', 'C:\\python\\Lib\\email\\_parseaddr.py', 'PYMODULE'),
+  ('calendar', 'C:\\python\\Lib\\calendar.py', 'PYMODULE'),
+  ('quopri', 'C:\\python\\Lib\\quopri.py', 'PYMODULE'),
+  ('getopt', 'C:\\python\\Lib\\getopt.py', 'PYMODULE'),
+  ('email', 'C:\\python\\Lib\\email\\__init__.py', 'PYMODULE'),
+  ('email.parser', 'C:\\python\\Lib\\email\\parser.py', 'PYMODULE'),
+  ('email.feedparser', 'C:\\python\\Lib\\email\\feedparser.py', 'PYMODULE'),
+  ('csv', 'C:\\python\\Lib\\csv.py', 'PYMODULE'),
+  ('importlib.readers', 'C:\\python\\Lib\\importlib\\readers.py', 'PYMODULE'),
+  ('importlib.resources.readers',
+   'C:\\python\\Lib\\importlib\\resources\\readers.py',
+   'PYMODULE'),
+  ('importlib.resources._itertools',
+   'C:\\python\\Lib\\importlib\\resources\\_itertools.py',
+   'PYMODULE'),
+  ('tokenize', 'C:\\python\\Lib\\tokenize.py', 'PYMODULE'),
+  ('token', 'C:\\python\\Lib\\token.py', 'PYMODULE'),
+  ('pathlib', 'C:\\python\\Lib\\pathlib.py', 'PYMODULE'),
+  ('contextlib', 'C:\\python\\Lib\\contextlib.py', 'PYMODULE'),
+  ('importlib.util', 'C:\\python\\Lib\\importlib\\util.py', 'PYMODULE'),
+  ('tarfile', 'C:\\python\\Lib\\tarfile.py', 'PYMODULE'),
+  ('lzma', 'C:\\python\\Lib\\lzma.py', 'PYMODULE'),
+  ('bz2', 'C:\\python\\Lib\\bz2.py', 'PYMODULE'),
+  ('fnmatch', 'C:\\python\\Lib\\fnmatch.py', 'PYMODULE'),
+  ('copy', 'C:\\python\\Lib\\copy.py', 'PYMODULE'),
+  ('gettext', 'C:\\python\\Lib\\gettext.py', 'PYMODULE'),
+  ('_compression', 'C:\\python\\Lib\\_compression.py', 'PYMODULE'),
+  ('xml.parsers.expat', 'C:\\python\\Lib\\xml\\parsers\\expat.py', 'PYMODULE'),
+  ('xml.parsers', 'C:\\python\\Lib\\xml\\parsers\\__init__.py', 'PYMODULE'),
+  ('xml', 'C:\\python\\Lib\\xml\\__init__.py', 'PYMODULE'),
+  ('xml.sax.expatreader',
+   'C:\\python\\Lib\\xml\\sax\\expatreader.py',
+   'PYMODULE'),
+  ('xml.sax.saxutils', 'C:\\python\\Lib\\xml\\sax\\saxutils.py', 'PYMODULE'),
+  ('urllib.request', 'C:\\python\\Lib\\urllib\\request.py', 'PYMODULE'),
+  ('ipaddress', 'C:\\python\\Lib\\ipaddress.py', 'PYMODULE'),
+  ('getpass', 'C:\\python\\Lib\\getpass.py', 'PYMODULE'),
+  ('nturl2path', 'C:\\python\\Lib\\nturl2path.py', 'PYMODULE'),
+  ('ftplib', 'C:\\python\\Lib\\ftplib.py', 'PYMODULE'),
+  ('netrc', 'C:\\python\\Lib\\netrc.py', 'PYMODULE'),
+  ('shlex', 'C:\\python\\Lib\\shlex.py', 'PYMODULE'),
+  ('mimetypes', 'C:\\python\\Lib\\mimetypes.py', 'PYMODULE'),
+  ('http.cookiejar', 'C:\\python\\Lib\\http\\cookiejar.py', 'PYMODULE'),
+  ('http', 'C:\\python\\Lib\\http\\__init__.py', 'PYMODULE'),
+  ('ssl', 'C:\\python\\Lib\\ssl.py', 'PYMODULE'),
+  ('urllib.response', 'C:\\python\\Lib\\urllib\\response.py', 'PYMODULE'),
+  ('urllib.error', 'C:\\python\\Lib\\urllib\\error.py', 'PYMODULE'),
+  ('xml.sax', 'C:\\python\\Lib\\xml\\sax\\__init__.py', 'PYMODULE'),
+  ('xml.sax.handler', 'C:\\python\\Lib\\xml\\sax\\handler.py', 'PYMODULE'),
+  ('xml.sax._exceptions',
+   'C:\\python\\Lib\\xml\\sax\\_exceptions.py',
+   'PYMODULE'),
+  ('xml.sax.xmlreader', 'C:\\python\\Lib\\xml\\sax\\xmlreader.py', 'PYMODULE'),
+  ('urllib.parse', 'C:\\python\\Lib\\urllib\\parse.py', 'PYMODULE'),
+  ('http.client', 'C:\\python\\Lib\\http\\client.py', 'PYMODULE'),
+  ('decimal', 'C:\\python\\Lib\\decimal.py', 'PYMODULE'),
+  ('_pydecimal', 'C:\\python\\Lib\\_pydecimal.py', 'PYMODULE'),
+  ('contextvars', 'C:\\python\\Lib\\contextvars.py', 'PYMODULE'),
+  ('datetime', 'C:\\python\\Lib\\datetime.py', 'PYMODULE'),
+  ('_strptime', 'C:\\python\\Lib\\_strptime.py', 'PYMODULE'),
+  ('base64', 'C:\\python\\Lib\\base64.py', 'PYMODULE'),
+  ('hmac', 'C:\\python\\Lib\\hmac.py', 'PYMODULE'),
+  ('tempfile', 'C:\\python\\Lib\\tempfile.py', 'PYMODULE'),
+  ('struct', 'C:\\python\\Lib\\struct.py', 'PYMODULE'),
+  ('socket', 'C:\\python\\Lib\\socket.py', 'PYMODULE'),
+  ('multiprocessing.util',
+   'C:\\python\\Lib\\multiprocessing\\util.py',
+   'PYMODULE'),
+  ('multiprocessing.resource_tracker',
+   'C:\\python\\Lib\\multiprocessing\\resource_tracker.py',
+   'PYMODULE'),
+  ('multiprocessing.popen_fork',
+   'C:\\python\\Lib\\multiprocessing\\popen_fork.py',
+   'PYMODULE'),
+  ('multiprocessing.forkserver',
+   'C:\\python\\Lib\\multiprocessing\\forkserver.py',
+   'PYMODULE'),
+  ('multiprocessing.context',
+   'C:\\python\\Lib\\multiprocessing\\context.py',
+   'PYMODULE'),
+  ('multiprocessing.sharedctypes',
+   'C:\\python\\Lib\\multiprocessing\\sharedctypes.py',
+   'PYMODULE'),
+  ('multiprocessing.heap',
+   'C:\\python\\Lib\\multiprocessing\\heap.py',
+   'PYMODULE'),
+  ('ctypes', 'C:\\python\\Lib\\ctypes\\__init__.py', 'PYMODULE'),
+  ('ctypes._endian', 'C:\\python\\Lib\\ctypes\\_endian.py', 'PYMODULE'),
+  ('multiprocessing.pool',
+   'C:\\python\\Lib\\multiprocessing\\pool.py',
+   'PYMODULE'),
+  ('multiprocessing.dummy',
+   'C:\\python\\Lib\\multiprocessing\\dummy\\__init__.py',
+   'PYMODULE'),
+  ('multiprocessing.dummy.connection',
+   'C:\\python\\Lib\\multiprocessing\\dummy\\connection.py',
+   'PYMODULE'),
+  ('queue', 'C:\\python\\Lib\\queue.py', 'PYMODULE'),
+  ('multiprocessing.queues',
+   'C:\\python\\Lib\\multiprocessing\\queues.py',
+   'PYMODULE'),
+  ('multiprocessing.synchronize',
+   'C:\\python\\Lib\\multiprocessing\\synchronize.py',
+   'PYMODULE'),
+  ('multiprocessing.managers',
+   'C:\\python\\Lib\\multiprocessing\\managers.py',
+   'PYMODULE'),
+  ('multiprocessing.shared_memory',
+   'C:\\python\\Lib\\multiprocessing\\shared_memory.py',
+   'PYMODULE'),
+  ('secrets', 'C:\\python\\Lib\\secrets.py', 'PYMODULE'),
+  ('multiprocessing.reduction',
+   'C:\\python\\Lib\\multiprocessing\\reduction.py',
+   'PYMODULE'),
+  ('pickle', 'C:\\python\\Lib\\pickle.py', 'PYMODULE'),
+  ('pprint', 'C:\\python\\Lib\\pprint.py', 'PYMODULE'),
+  ('dataclasses', 'C:\\python\\Lib\\dataclasses.py', 'PYMODULE'),
+  ('inspect', 'C:\\python\\Lib\\inspect.py', 'PYMODULE'),
+  ('dis', 'C:\\python\\Lib\\dis.py', 'PYMODULE'),
+  ('opcode', 'C:\\python\\Lib\\opcode.py', 'PYMODULE'),
+  ('ast', 'C:\\python\\Lib\\ast.py', 'PYMODULE'),
+  ('_compat_pickle', 'C:\\python\\Lib\\_compat_pickle.py', 'PYMODULE'),
+  ('multiprocessing.popen_spawn_posix',
+   'C:\\python\\Lib\\multiprocessing\\popen_spawn_posix.py',
+   'PYMODULE'),
+  ('multiprocessing.popen_spawn_win32',
+   'C:\\python\\Lib\\multiprocessing\\popen_spawn_win32.py',
+   'PYMODULE'),
+  ('subprocess', 'C:\\python\\Lib\\subprocess.py', 'PYMODULE'),
+  ('multiprocessing.spawn',
+   'C:\\python\\Lib\\multiprocessing\\spawn.py',
+   'PYMODULE'),
+  ('runpy', 'C:\\python\\Lib\\runpy.py', 'PYMODULE'),
+  ('pkgutil', 'C:\\python\\Lib\\pkgutil.py', 'PYMODULE'),
+  ('zipimport', 'C:\\python\\Lib\\zipimport.py', 'PYMODULE'),
+  ('multiprocessing',
+   'C:\\python\\Lib\\multiprocessing\\__init__.py',
+   'PYMODULE'),
+  ('threading', 'C:\\python\\Lib\\threading.py', 'PYMODULE'),
+  ('_threading_local', 'C:\\python\\Lib\\_threading_local.py', 'PYMODULE'),
+  ('_pyi_rth_utils',
+   'E:\\projects\\амосрм '
+   'обнова\\venv\\Lib\\site-packages\\PyInstaller\\fake-modules\\_pyi_rth_utils\\__init__.py',
+   'PYMODULE'),
+  ('stringprep', 'C:\\python\\Lib\\stringprep.py', 'PYMODULE'),
+  ('tracemalloc', 'C:\\python\\Lib\\tracemalloc.py', 'PYMODULE'),
+  ('_py_abc', 'C:\\python\\Lib\\_py_abc.py', 'PYMODULE'),
+  ('siganature', 'E:\\projects\\амосрм обнова\\siganature.py', 'PYMODULE'),
+  ('config', 'E:\\projects\\амосрм обнова\\config.py', 'PYMODULE'),
+  ('aiogram.client.default',
+   'E:\\projects\\амосрм '
+   'обнова\\venv\\Lib\\site-packages\\aiogram\\client\\default.py',
+   'PYMODULE'),
+  ('aiogram.client',
+   'E:\\projects\\амосрм '
+   'обнова\\venv\\Lib\\site-packages\\aiogram\\client\\__init__.py',
+   'PYMODULE'),
+  ('aiogram.types',
+   'E:\\projects\\амосрм '
+   'обнова\\venv\\Lib\\site-packages\\aiogram\\types\\__init__.py',
+   'PYMODULE'),
+  ('aiogram.types.write_access_allowed',
+   'E:\\projects\\амосрм '
+   'обнова\\venv\\Lib\\site-packages\\aiogram\\types\\write_access_allowed.py',
+   'PYMODULE'),
+  ('aiogram.types.webhook_info',
+   'E:\\projects\\амосрм '
+   'обнова\\venv\\Lib\\site-packages\\aiogram\\types\\webhook_info.py',
+   'PYMODULE'),
+  ('aiogram.types.web_app_info',
+   'E:\\projects\\амосрм '
+   'обнова\\venv\\Lib\\site-packages\\aiogram\\types\\web_app_info.py',
+   'PYMODULE'),
+  ('aiogram.types.web_app_data',
+   'E:\\projects\\амосрм '
+   'обнова\\venv\\Lib\\site-packages\\aiogram\\types\\web_app_data.py',
+   'PYMODULE'),
+  ('aiogram.types.voice',
+   'E:\\projects\\амосрм '
+   'обнова\\venv\\Lib\\site-packages\\aiogram\\types\\voice.py',
+   'PYMODULE'),
+  ('aiogram.types.video_note',
+   'E:\\projects\\амосрм '
+   'обнова\\venv\\Lib\\site-packages\\aiogram\\types\\video_note.py',
+   'PYMODULE'),
+  ('aiogram.types.video_chat_started',
+   'E:\\projects\\амосрм '
+   'обнова\\venv\\Lib\\site-packages\\aiogram\\types\\video_chat_started.py',
+   'PYMODULE'),
+  ('aiogram.types.video_chat_scheduled',
+   'E:\\projects\\амосрм '
+   'обнова\\venv\\Lib\\site-packages\\aiogram\\types\\video_chat_scheduled.py',
+   'PYMODULE'),
+  ('aiogram.types.video_chat_participants_invited',
+   'E:\\projects\\амосрм '
+   'обнова\\venv\\Lib\\site-packages\\aiogram\\types\\video_chat_participants_invited.py',
+   'PYMODULE'),
+  ('aiogram.types.video_chat_ended',
+   'E:\\projects\\амосрм '
+   'обнова\\venv\\Lib\\site-packages\\aiogram\\types\\video_chat_ended.py',
+   'PYMODULE'),
+  ('aiogram.types.video',
+   'E:\\projects\\амосрм '
+   'обнова\\venv\\Lib\\site-packages\\aiogram\\types\\video.py',
+   'PYMODULE'),
+  ('aiogram.types.venue',
+   'E:\\projects\\амосрм '
+   'обнова\\venv\\Lib\\site-packages\\aiogram\\types\\venue.py',
+   'PYMODULE'),
+  ('aiogram.types.users_shared',
+   'E:\\projects\\амосрм '
+   'обнова\\venv\\Lib\\site-packages\\aiogram\\types\\users_shared.py',
+   'PYMODULE'),
+  ('aiogram.types.user_shared',
+   'E:\\projects\\амосрм '
+   'обнова\\venv\\Lib\\site-packages\\aiogram\\types\\user_shared.py',
+   'PYMODULE'),
+  ('aiogram.types.user_profile_photos',
+   'E:\\projects\\амосрм '
+   'обнова\\venv\\Lib\\site-packages\\aiogram\\types\\user_profile_photos.py',
+   'PYMODULE'),
+  ('aiogram.types.user_chat_boosts',
+   'E:\\projects\\амосрм '
+   'обнова\\venv\\Lib\\site-packages\\aiogram\\types\\user_chat_boosts.py',
+   'PYMODULE'),
+  ('aiogram.types.user',
+   'E:\\projects\\амосрм '
+   'обнова\\venv\\Lib\\site-packages\\aiogram\\types\\user.py',
+   'PYMODULE'),
+  ('aiogram.methods',
+   'E:\\projects\\амосрм '
+   'обнова\\venv\\Lib\\site-packages\\aiogram\\methods\\__init__.py',
+   'PYMODULE'),
+  ('aiogram.methods.upload_sticker_file',
+   'E:\\projects\\амосрм '
+   'обнова\\venv\\Lib\\site-packages\\aiogram\\methods\\upload_sticker_file.py',
+   'PYMODULE'),
+  ('aiogram.methods.unpin_chat_message',
+   'E:\\projects\\амосрм '
+   'обнова\\venv\\Lib\\site-packages\\aiogram\\methods\\unpin_chat_message.py',
+   'PYMODULE'),
+  ('aiogram.methods.unpin_all_general_forum_topic_messages',
+   'E:\\projects\\амосрм '
+   'обнова\\venv\\Lib\\site-packages\\aiogram\\methods\\unpin_all_general_forum_topic_messages.py',
+   'PYMODULE'),
+  ('aiogram.methods.unpin_all_forum_topic_messages',
+   'E:\\projects\\амосрм '
+   'обнова\\venv\\Lib\\site-packages\\aiogram\\methods\\unpin_all_forum_topic_messages.py',
+   'PYMODULE'),
+  ('aiogram.methods.unpin_all_chat_messages',
+   'E:\\projects\\амосрм '
+   'обнова\\venv\\Lib\\site-packages\\aiogram\\methods\\unpin_all_chat_messages.py',
+   'PYMODULE'),
+  ('aiogram.methods.unhide_general_forum_topic',
+   'E:\\projects\\амосрм '
+   'обнова\\venv\\Lib\\site-packages\\aiogram\\methods\\unhide_general_forum_topic.py',
+   'PYMODULE'),
+  ('aiogram.methods.unban_chat_sender_chat',
+   'E:\\projects\\амосрм '
+   'обнова\\venv\\Lib\\site-packages\\aiogram\\methods\\unban_chat_sender_chat.py',
+   'PYMODULE'),
+  ('aiogram.methods.unban_chat_member',
+   'E:\\projects\\амосрм '
+   'обнова\\venv\\Lib\\site-packages\\aiogram\\methods\\unban_chat_member.py',
+   'PYMODULE'),
+  ('aiogram.methods.stop_poll',
+   'E:\\projects\\амосрм '
+   'обнова\\venv\\Lib\\site-packages\\aiogram\\methods\\stop_poll.py',
+   'PYMODULE'),
+  ('aiogram.methods.stop_message_live_location',
+   'E:\\projects\\амосрм '
+   'обнова\\venv\\Lib\\site-packages\\aiogram\\methods\\stop_message_live_location.py',
+   'PYMODULE'),
+  ('aiogram.methods.set_webhook',
+   'E:\\projects\\амосрм '
+   'обнова\\venv\\Lib\\site-packages\\aiogram\\methods\\set_webhook.py',
+   'PYMODULE'),
+  ('aiogram.methods.set_sticker_set_title',
+   'E:\\projects\\амосрм '
+   'обнова\\venv\\Lib\\site-packages\\aiogram\\methods\\set_sticker_set_title.py',
+   'PYMODULE'),
+  ('aiogram.methods.set_sticker_set_thumbnail',
+   'E:\\projects\\амосрм '
+   'обнова\\venv\\Lib\\site-packages\\aiogram\\methods\\set_sticker_set_thumbnail.py',
+   'PYMODULE'),
+  ('aiogram.methods.set_sticker_position_in_set',
+   'E:\\projects\\амосрм '
+   'обнова\\venv\\Lib\\site-packages\\aiogram\\methods\\set_sticker_position_in_set.py',
+   'PYMODULE'),
+  ('aiogram.methods.set_sticker_mask_position',
+   'E:\\projects\\амосрм '
+   'обнова\\venv\\Lib\\site-packages\\aiogram\\methods\\set_sticker_mask_position.py',
+   'PYMODULE'),
+  ('aiogram.methods.set_sticker_keywords',
+   'E:\\projects\\амосрм '
+   'обнова\\venv\\Lib\\site-packages\\aiogram\\methods\\set_sticker_keywords.py',
+   'PYMODULE'),
+  ('aiogram.methods.set_sticker_emoji_list',
+   'E:\\projects\\амосрм '
+   'обнова\\venv\\Lib\\site-packages\\aiogram\\methods\\set_sticker_emoji_list.py',
+   'PYMODULE'),
+  ('aiogram.methods.set_passport_data_errors',
+   'E:\\projects\\амосрм '
+   'обнова\\venv\\Lib\\site-packages\\aiogram\\methods\\set_passport_data_errors.py',
+   'PYMODULE'),
+  ('aiogram.methods.set_my_short_description',
+   'E:\\projects\\амосрм '
+   'обнова\\venv\\Lib\\site-packages\\aiogram\\methods\\set_my_short_description.py',
+   'PYMODULE'),
+  ('aiogram.methods.set_my_name',
+   'E:\\projects\\амосрм '
+   'обнова\\venv\\Lib\\site-packages\\aiogram\\methods\\set_my_name.py',
+   'PYMODULE'),
+  ('aiogram.methods.set_my_description',
+   'E:\\projects\\амосрм '
+   'обнова\\venv\\Lib\\site-packages\\aiogram\\methods\\set_my_description.py',
+   'PYMODULE'),
+  ('aiogram.methods.set_my_default_administrator_rights',
+   'E:\\projects\\амосрм '
+   'обнова\\venv\\Lib\\site-packages\\aiogram\\methods\\set_my_default_administrator_rights.py',
+   'PYMODULE'),
+  ('aiogram.methods.set_my_commands',
+   'E:\\projects\\амосрм '
+   'обнова\\venv\\Lib\\site-packages\\aiogram\\methods\\set_my_commands.py',
+   'PYMODULE'),
+  ('aiogram.methods.set_message_reaction',
+   'E:\\projects\\амосрм '
+   'обнова\\venv\\Lib\\site-packages\\aiogram\\methods\\set_message_reaction.py',
+   'PYMODULE'),
+  ('aiogram.methods.set_game_score',
+   'E:\\projects\\амосрм '
+   'обнова\\venv\\Lib\\site-packages\\aiogram\\methods\\set_game_score.py',
+   'PYMODULE'),
+  ('aiogram.methods.set_custom_emoji_sticker_set_thumbnail',
+   'E:\\projects\\амосрм '
+   'обнова\\venv\\Lib\\site-packages\\aiogram\\methods\\set_custom_emoji_sticker_set_thumbnail.py',
+   'PYMODULE'),
+  ('aiogram.methods.set_chat_title',
+   'E:\\projects\\амосрм '
+   'обнова\\venv\\Lib\\site-packages\\aiogram\\methods\\set_chat_title.py',
+   'PYMODULE'),
+  ('aiogram.methods.set_chat_sticker_set',
+   'E:\\projects\\амосрм '
+   'обнова\\venv\\Lib\\site-packages\\aiogram\\methods\\set_chat_sticker_set.py',
+   'PYMODULE'),
+  ('aiogram.methods.set_chat_photo',
+   'E:\\projects\\амосрм '
+   'обнова\\venv\\Lib\\site-packages\\aiogram\\methods\\set_chat_photo.py',
+   'PYMODULE'),
+  ('aiogram.methods.set_chat_permissions',
+   'E:\\projects\\амосрм '
+   'обнова\\venv\\Lib\\site-packages\\aiogram\\methods\\set_chat_permissions.py',
+   'PYMODULE'),
+  ('aiogram.methods.set_chat_menu_button',
+   'E:\\projects\\амосрм '
+   'обнова\\venv\\Lib\\site-packages\\aiogram\\methods\\set_chat_menu_button.py',
+   'PYMODULE'),
+  ('aiogram.methods.set_chat_description',
+   'E:\\projects\\амосрм '
+   'обнова\\venv\\Lib\\site-packages\\aiogram\\methods\\set_chat_description.py',
+   'PYMODULE'),
+  ('aiogram.methods.set_chat_administrator_custom_title',
+   'E:\\projects\\амосрм '
+   'обнова\\venv\\Lib\\site-packages\\aiogram\\methods\\set_chat_administrator_custom_title.py',
+   'PYMODULE'),
+  ('aiogram.methods.send_voice',
+   'E:\\projects\\амосрм '
+   'обнова\\venv\\Lib\\site-packages\\aiogram\\methods\\send_voice.py',
+   'PYMODULE'),
+  ('pydantic',
+   'E:\\projects\\амосрм '
+   'обнова\\venv\\Lib\\site-packages\\pydantic\\__init__.py',
+   'PYMODULE'),
+  ('pydantic.root_model',
+   'E:\\projects\\амосрм '
+   'обнова\\venv\\Lib\\site-packages\\pydantic\\root_model.py',
+   'PYMODULE'),
+  ('typing_extensions',
+   'E:\\projects\\амосрм '
+   'обнова\\venv\\Lib\\site-packages\\typing_extensions.py',
+   'PYMODULE'),
+  ('pydantic._internal._repr',
+   'E:\\projects\\амосрм '
+   'обнова\\venv\\Lib\\site-packages\\pydantic\\_internal\\_repr.py',
+   'PYMODULE'),
+  ('pydantic._internal._typing_extra',
+   'E:\\projects\\амосрм '
+   'обнова\\venv\\Lib\\site-packages\\pydantic\\_internal\\_typing_extra.py',
+   'PYMODULE'),
+  ('pydantic._internal._utils',
+   'E:\\projects\\амосрм '
+   'обнова\\venv\\Lib\\site-packages\\pydantic\\_internal\\_utils.py',
+   'PYMODULE'),
+  ('pydantic._internal._dataclasses',
+   'E:\\projects\\амосрм '
+   'обнова\\venv\\Lib\\site-packages\\pydantic\\_internal\\_dataclasses.py',
+   'PYMODULE'),
+  ('pydantic._internal._schema_generation_shared',
+   'E:\\projects\\амосрм '
+   'обнова\\venv\\Lib\\site-packages\\pydantic\\_internal\\_schema_generation_shared.py',
+   'PYMODULE'),
+  ('pydantic._internal._core_utils',
+   'E:\\projects\\амосрм '
+   'обнова\\venv\\Lib\\site-packages\\pydantic\\_internal\\_core_utils.py',
+   'PYMODULE'),
+  ('pydantic._internal._mock_val_ser',
+   'E:\\projects\\амосрм '
+   'обнова\\venv\\Lib\\site-packages\\pydantic\\_internal\\_mock_val_ser.py',
+   'PYMODULE'),
+  ('pydantic._internal._generics',
+   'E:\\projects\\амосрм '
+   'обнова\\venv\\Lib\\site-packages\\pydantic\\_internal\\_generics.py',
+   'PYMODULE'),
+  ('pydantic._internal._forward_ref',
+   'E:\\projects\\амосрм '
+   'обнова\\venv\\Lib\\site-packages\\pydantic\\_internal\\_forward_ref.py',
+   'PYMODULE'),
+  ('pydantic._internal._fields',
+   'E:\\projects\\амосрм '
+   'обнова\\venv\\Lib\\site-packages\\pydantic\\_internal\\_fields.py',
+   'PYMODULE'),
+  ('annotated_types',
+   'E:\\projects\\амосрм '
+   'обнова\\venv\\Lib\\site-packages\\annotated_types\\__init__.py',
+   'PYMODULE'),
+  ('pydantic._internal._decorators',
+   'E:\\projects\\амосрм '
+   'обнова\\venv\\Lib\\site-packages\\pydantic\\_internal\\_decorators.py',
+   'PYMODULE'),
+  ('pydantic._internal._internal_dataclass',
+   'E:\\projects\\амосрм '
+   'обнова\\venv\\Lib\\site-packages\\pydantic\\_internal\\_internal_dataclass.py',
+   'PYMODULE'),
+  ('pydantic._internal._config',
+   'E:\\projects\\амосрм '
+   'обнова\\venv\\Lib\\site-packages\\pydantic\\_internal\\_config.py',
+   'PYMODULE'),
+  ('pydantic.plugin._schema_validator',
+   'E:\\projects\\амосрм '
+   'обнова\\venv\\Lib\\site-packages\\pydantic\\plugin\\_schema_validator.py',
+   'PYMODULE'),
+  ('pydantic.plugin._loader',
+   'E:\\projects\\амосрм '
+   'обнова\\venv\\Lib\\site-packages\\pydantic\\plugin\\_loader.py',
+   'PYMODULE'),
+  ('pydantic.plugin',
+   'E:\\projects\\амосрм '
+   'обнова\\venv\\Lib\\site-packages\\pydantic\\plugin\\__init__.py',
+   'PYMODULE'),
+  ('pydantic._internal',
+   'E:\\projects\\амосрм '
+   'обнова\\venv\\Lib\\site-packages\\pydantic\\_internal\\__init__.py',
+   'PYMODULE'),
+  ('pydantic._internal._decorators_v1',
+   'E:\\projects\\амосрм '
+   'обнова\\venv\\Lib\\site-packages\\pydantic\\_internal\\_decorators_v1.py',
+   'PYMODULE'),
+  ('pydantic._internal._known_annotated_metadata',
+   'E:\\projects\\амосрм '
+   'обнова\\venv\\Lib\\site-packages\\pydantic\\_internal\\_known_annotated_metadata.py',
+   'PYMODULE'),
+  ('pydantic._internal._validators',
+   'E:\\projects\\амосрм '
+   'обнова\\venv\\Lib\\site-packages\\pydantic\\_internal\\_validators.py',
+   'PYMODULE'),
+  ('pydantic._internal._discriminated_union',
+   'E:\\projects\\амосрм '
+   'обнова\\venv\\Lib\\site-packages\\pydantic\\_internal\\_discriminated_union.py',
+   'PYMODULE'),
+  ('pydantic._internal._model_construction',
+   'E:\\projects\\амосрм '
+   'обнова\\venv\\Lib\\site-packages\\pydantic\\_internal\\_model_construction.py',
+   'PYMODULE'),
+  ('pydantic._internal._validate_call',
+   'E:\\projects\\амосрм '
+   'обнова\\venv\\Lib\\site-packages\\pydantic\\_internal\\_validate_call.py',
+   'PYMODULE'),
+  ('pydantic._internal._core_metadata',
+   'E:\\projects\\амосрм '
+   'обнова\\venv\\Lib\\site-packages\\pydantic\\_internal\\_core_metadata.py',
+   'PYMODULE'),
+  ('pydantic.deprecated.tools',
+   'E:\\projects\\амосрм '
+   'обнова\\venv\\Lib\\site-packages\\pydantic\\deprecated\\tools.py',
+   'PYMODULE'),
+  ('pydantic.deprecated',
+   'E:\\projects\\амосрм '
+   'обнова\\venv\\Lib\\site-packages\\pydantic\\deprecated\\__init__.py',
+   'PYMODULE'),
+  ('pydantic.deprecated.copy_internals',
+   'E:\\projects\\амосрм '
+   'обнова\\venv\\Lib\\site-packages\\pydantic\\deprecated\\copy_internals.py',
+   'PYMODULE'),
+  ('json', 'C:\\python\\Lib\\json\\__init__.py', 'PYMODULE'),
+  ('json.encoder', 'C:\\python\\Lib\\json\\encoder.py', 'PYMODULE'),
+  ('json.decoder', 'C:\\python\\Lib\\json\\decoder.py', 'PYMODULE'),
+  ('json.scanner', 'C:\\python\\Lib\\json\\scanner.py', 'PYMODULE'),
+  ('pydantic.deprecated.config',
+   'E:\\projects\\амосрм '
+   'обнова\\venv\\Lib\\site-packages\\pydantic\\deprecated\\config.py',
+   'PYMODULE'),
+  ('pydantic.deprecated.class_validators',
+   'E:\\projects\\амосрм '
+   'обнова\\venv\\Lib\\site-packages\\pydantic\\deprecated\\class_validators.py',
+   'PYMODULE'),
+  ('pydantic.warnings',
+   'E:\\projects\\амосрм '
+   'обнова\\venv\\Lib\\site-packages\\pydantic\\warnings.py',
+   'PYMODULE'),
+  ('pydantic.validate_call_decorator',
+   'E:\\projects\\амосрм '
+   'обнова\\venv\\Lib\\site-packages\\pydantic\\validate_call_decorator.py',
+   'PYMODULE'),
+  ('pydantic.type_adapter',
+   'E:\\projects\\амосрм '
+   'обнова\\venv\\Lib\\site-packages\\pydantic\\type_adapter.py',
+   'PYMODULE'),
+  ('pydantic.networks',
+   'E:\\projects\\амосрм '
+   'обнова\\venv\\Lib\\site-packages\\pydantic\\networks.py',
+   'PYMODULE'),
+  ('pydantic.main',
+   'E:\\projects\\амосрм обнова\\venv\\Lib\\site-packages\\pydantic\\main.py',
+   'PYMODULE'),
+  ('pydantic.deprecated.json',
+   'E:\\projects\\амосрм '
+   'обнова\\venv\\Lib\\site-packages\\pydantic\\deprecated\\json.py',
+   'PYMODULE'),
+  ('pydantic.color',
+   'E:\\projects\\амосрм обнова\\venv\\Lib\\site-packages\\pydantic\\color.py',
+   'PYMODULE'),
+  ('colorsys', 'C:\\python\\Lib\\colorsys.py', 'PYMODULE'),
+  ('uuid', 'C:\\python\\Lib\\uuid.py', 'PYMODULE'),
+  ('platform', 'C:\\python\\Lib\\platform.py', 'PYMODULE'),
+  ('pydantic.deprecated.parse',
+   'E:\\projects\\амосрм '
+   'обнова\\venv\\Lib\\site-packages\\pydantic\\deprecated\\parse.py',
+   'PYMODULE'),
+  ('pydantic.json_schema',
+   'E:\\projects\\амосрм '
+   'обнова\\venv\\Lib\\site-packages\\pydantic\\json_schema.py',
+   'PYMODULE'),
+  ('pydantic.functional_validators',
+   'E:\\projects\\амосрм '
+   'обнова\\venv\\Lib\\site-packages\\pydantic\\functional_validators.py',
+   'PYMODULE'),
+  ('pydantic.functional_serializers',
+   'E:\\projects\\амосрм '
+   'обнова\\venv\\Lib\\site-packages\\pydantic\\functional_serializers.py',
+   'PYMODULE'),
+  ('pydantic.fields',
+   'E:\\projects\\амосрм обнова\\venv\\Lib\\site-packages\\pydantic\\fields.py',
+   'PYMODULE'),
+  ('pydantic.errors',
+   'E:\\projects\\амосрм обнова\\venv\\Lib\\site-packages\\pydantic\\errors.py',
+   'PYMODULE'),
+  ('pydantic.config',
+   'E:\\projects\\амосрм обнова\\venv\\Lib\\site-packages\\pydantic\\config.py',
+   'PYMODULE'),
+  ('pydantic.annotated_handlers',
+   'E:\\projects\\амосрм '
+   'обнова\\venv\\Lib\\site-packages\\pydantic\\annotated_handlers.py',
+   'PYMODULE'),
+  ('pydantic._internal._generate_schema',
+   'E:\\projects\\амосрм '
+   'обнова\\venv\\Lib\\site-packages\\pydantic\\_internal\\_generate_schema.py',
+   'PYMODULE'),
+  ('pydantic._internal._std_types_schema',
+   'E:\\projects\\амосрм '
+   'обнова\\venv\\Lib\\site-packages\\pydantic\\_internal\\_std_types_schema.py',
+   'PYMODULE'),
+  ('pydantic.validators',
+   'E:\\projects\\амосрм '
+   'обнова\\venv\\Lib\\site-packages\\pydantic\\validators.py',
+   'PYMODULE'),
+  ('pydantic.dataclasses',
+   'E:\\projects\\амосрм '
+   'обнова\\venv\\Lib\\site-packages\\pydantic\\dataclasses.py',
+   'PYMODULE'),
+  ('pydantic.types',
+   'E:\\projects\\амосрм обнова\\venv\\Lib\\site-packages\\pydantic\\types.py',
+   'PYMODULE'),
+  ('pydantic_core.core_schema',
+   'E:\\projects\\амосрм '
+   'обнова\\venv\\Lib\\site-packages\\pydantic_core\\core_schema.py',
+   'PYMODULE'),
+  ('pydantic_core',
+   'E:\\projects\\амосрм '
+   'обнова\\venv\\Lib\\site-packages\\pydantic_core\\__init__.py',
+   'PYMODULE'),
+  ('pydantic.version',
+   'E:\\projects\\амосрм '
+   'обнова\\venv\\Lib\\site-packages\\pydantic\\version.py',
+   'PYMODULE'),
+  ('pydantic._migration',
+   'E:\\projects\\амосрм '
+   'обнова\\venv\\Lib\\site-packages\\pydantic\\_migration.py',
+   'PYMODULE'),
+  ('aiogram.methods.send_video_note',
+   'E:\\projects\\амосрм '
+   'обнова\\venv\\Lib\\site-packages\\aiogram\\methods\\send_video_note.py',
+   'PYMODULE'),
+  ('aiogram.methods.send_video',
+   'E:\\projects\\амосрм '
+   'обнова\\venv\\Lib\\site-packages\\aiogram\\methods\\send_video.py',
+   'PYMODULE'),
+  ('aiogram.methods.send_venue',
+   'E:\\projects\\амосрм '
+   'обнова\\venv\\Lib\\site-packages\\aiogram\\methods\\send_venue.py',
+   'PYMODULE'),
+  ('aiogram.methods.send_sticker',
+   'E:\\projects\\амосрм '
+   'обнова\\venv\\Lib\\site-packages\\aiogram\\methods\\send_sticker.py',
+   'PYMODULE'),
+  ('aiogram.methods.send_poll',
+   'E:\\projects\\амосрм '
+   'обнова\\venv\\Lib\\site-packages\\aiogram\\methods\\send_poll.py',
+   'PYMODULE'),
+  ('aiogram.methods.send_photo',
+   'E:\\projects\\амосрм '
+   'обнова\\venv\\Lib\\site-packages\\aiogram\\methods\\send_photo.py',
+   'PYMODULE'),
+  ('aiogram.methods.send_message',
+   'E:\\projects\\амосрм '
+   'обнова\\venv\\Lib\\site-packages\\aiogram\\methods\\send_message.py',
+   'PYMODULE'),
+  ('aiogram.methods.send_media_group',
+   'E:\\projects\\амосрм '
+   'обнова\\venv\\Lib\\site-packages\\aiogram\\methods\\send_media_group.py',
+   'PYMODULE'),
+  ('aiogram.methods.send_location',
+   'E:\\projects\\амосрм '
+   'обнова\\venv\\Lib\\site-packages\\aiogram\\methods\\send_location.py',
+   'PYMODULE'),
+  ('aiogram.methods.send_invoice',
+   'E:\\projects\\амосрм '
+   'обнова\\venv\\Lib\\site-packages\\aiogram\\methods\\send_invoice.py',
+   'PYMODULE'),
+  ('aiogram.methods.send_game',
+   'E:\\projects\\амосрм '
+   'обнова\\venv\\Lib\\site-packages\\aiogram\\methods\\send_game.py',
+   'PYMODULE'),
+  ('aiogram.methods.send_document',
+   'E:\\projects\\амосрм '
+   'обнова\\venv\\Lib\\site-packages\\aiogram\\methods\\send_document.py',
+   'PYMODULE'),
+  ('aiogram.methods.send_dice',
+   'E:\\projects\\амосрм '
+   'обнова\\venv\\Lib\\site-packages\\aiogram\\methods\\send_dice.py',
+   'PYMODULE'),
+  ('aiogram.methods.send_contact',
+   'E:\\projects\\амосрм '
+   'обнова\\venv\\Lib\\site-packages\\aiogram\\methods\\send_contact.py',
+   'PYMODULE'),
+  ('aiogram.methods.send_chat_action',
+   'E:\\projects\\амосрм '
+   'обнова\\venv\\Lib\\site-packages\\aiogram\\methods\\send_chat_action.py',
+   'PYMODULE'),
+  ('aiogram.methods.send_audio',
+   'E:\\projects\\амосрм '
+   'обнова\\venv\\Lib\\site-packages\\aiogram\\methods\\send_audio.py',
+   'PYMODULE'),
+  ('aiogram.methods.send_animation',
+   'E:\\projects\\амосрм '
+   'обнова\\venv\\Lib\\site-packages\\aiogram\\methods\\send_animation.py',
+   'PYMODULE'),
+  ('aiogram.methods.revoke_chat_invite_link',
+   'E:\\projects\\амосрм '
+   'обнова\\venv\\Lib\\site-packages\\aiogram\\methods\\revoke_chat_invite_link.py',
+   'PYMODULE'),
+  ('aiogram.methods.restrict_chat_member',
+   'E:\\projects\\амосрм '
+   'обнова\\venv\\Lib\\site-packages\\aiogram\\methods\\restrict_chat_member.py',
+   'PYMODULE'),
+  ('aiogram.methods.reopen_general_forum_topic',
+   'E:\\projects\\амосрм '
+   'обнова\\venv\\Lib\\site-packages\\aiogram\\methods\\reopen_general_forum_topic.py',
+   'PYMODULE'),
+  ('aiogram.methods.reopen_forum_topic',
+   'E:\\projects\\амосрм '
+   'обнова\\venv\\Lib\\site-packages\\aiogram\\methods\\reopen_forum_topic.py',
+   'PYMODULE'),
+  ('aiogram.methods.promote_chat_member',
+   'E:\\projects\\амосрм '
+   'обнова\\venv\\Lib\\site-packages\\aiogram\\methods\\promote_chat_member.py',
+   'PYMODULE'),
+  ('aiogram.methods.pin_chat_message',
+   'E:\\projects\\амосрм '
+   'обнова\\venv\\Lib\\site-packages\\aiogram\\methods\\pin_chat_message.py',
+   'PYMODULE'),
+  ('aiogram.methods.log_out',
+   'E:\\projects\\амосрм '
+   'обнова\\venv\\Lib\\site-packages\\aiogram\\methods\\log_out.py',
+   'PYMODULE'),
+  ('aiogram.methods.leave_chat',
+   'E:\\projects\\амосрм '
+   'обнова\\venv\\Lib\\site-packages\\aiogram\\methods\\leave_chat.py',
+   'PYMODULE'),
+  ('aiogram.methods.hide_general_forum_topic',
+   'E:\\projects\\амосрм '
+   'обнова\\venv\\Lib\\site-packages\\aiogram\\methods\\hide_general_forum_topic.py',
+   'PYMODULE'),
+  ('aiogram.methods.get_webhook_info',
+   'E:\\projects\\амосрм '
+   'обнова\\venv\\Lib\\site-packages\\aiogram\\methods\\get_webhook_info.py',
+   'PYMODULE'),
+  ('aiogram.methods.get_user_profile_photos',
+   'E:\\projects\\амосрм '
+   'обнова\\venv\\Lib\\site-packages\\aiogram\\methods\\get_user_profile_photos.py',
+   'PYMODULE'),
+  ('aiogram.methods.get_user_chat_boosts',
+   'E:\\projects\\амосрм '
+   'обнова\\venv\\Lib\\site-packages\\aiogram\\methods\\get_user_chat_boosts.py',
+   'PYMODULE'),
+  ('aiogram.methods.get_updates',
+   'E:\\projects\\амосрм '
+   'обнова\\venv\\Lib\\site-packages\\aiogram\\methods\\get_updates.py',
+   'PYMODULE'),
+  ('aiogram.methods.get_sticker_set',
+   'E:\\projects\\амосрм '
+   'обнова\\venv\\Lib\\site-packages\\aiogram\\methods\\get_sticker_set.py',
+   'PYMODULE'),
+  ('aiogram.methods.get_my_short_description',
+   'E:\\projects\\амосрм '
+   'обнова\\venv\\Lib\\site-packages\\aiogram\\methods\\get_my_short_description.py',
+   'PYMODULE'),
+  ('aiogram.methods.get_my_name',
+   'E:\\projects\\амосрм '
+   'обнова\\venv\\Lib\\site-packages\\aiogram\\methods\\get_my_name.py',
+   'PYMODULE'),
+  ('aiogram.methods.get_my_description',
+   'E:\\projects\\амосрм '
+   'обнова\\venv\\Lib\\site-packages\\aiogram\\methods\\get_my_description.py',
+   'PYMODULE'),
+  ('aiogram.methods.get_my_default_administrator_rights',
+   'E:\\projects\\амосрм '
+   'обнова\\venv\\Lib\\site-packages\\aiogram\\methods\\get_my_default_administrator_rights.py',
+   'PYMODULE'),
+  ('aiogram.methods.get_my_commands',
+   'E:\\projects\\амосрм '
+   'обнова\\venv\\Lib\\site-packages\\aiogram\\methods\\get_my_commands.py',
+   'PYMODULE'),
+  ('aiogram.methods.get_me',
+   'E:\\projects\\амосрм '
+   'обнова\\venv\\Lib\\site-packages\\aiogram\\methods\\get_me.py',
+   'PYMODULE'),
+  ('aiogram.methods.get_game_high_scores',
+   'E:\\projects\\амосрм '
+   'обнова\\venv\\Lib\\site-packages\\aiogram\\methods\\get_game_high_scores.py',
+   'PYMODULE'),
+  ('aiogram.methods.get_forum_topic_icon_stickers',
+   'E:\\projects\\амосрм '
+   'обнова\\venv\\Lib\\site-packages\\aiogram\\methods\\get_forum_topic_icon_stickers.py',
+   'PYMODULE'),
+  ('aiogram.methods.get_file',
+   'E:\\projects\\амосрм '
+   'обнова\\venv\\Lib\\site-packages\\aiogram\\methods\\get_file.py',
+   'PYMODULE'),
+  ('aiogram.methods.get_custom_emoji_stickers',
+   'E:\\projects\\амосрм '
+   'обнова\\venv\\Lib\\site-packages\\aiogram\\methods\\get_custom_emoji_stickers.py',
+   'PYMODULE'),
+  ('aiogram.methods.get_chat_menu_button',
+   'E:\\projects\\амосрм '
+   'обнова\\venv\\Lib\\site-packages\\aiogram\\methods\\get_chat_menu_button.py',
+   'PYMODULE'),
+  ('aiogram.methods.get_chat_member_count',
+   'E:\\projects\\амосрм '
+   'обнова\\venv\\Lib\\site-packages\\aiogram\\methods\\get_chat_member_count.py',
+   'PYMODULE'),
+  ('aiogram.methods.get_chat_member',
+   'E:\\projects\\амосрм '
+   'обнова\\venv\\Lib\\site-packages\\aiogram\\methods\\get_chat_member.py',
+   'PYMODULE'),
+  ('aiogram.methods.get_chat_administrators',
+   'E:\\projects\\амосрм '
+   'обнова\\venv\\Lib\\site-packages\\aiogram\\methods\\get_chat_administrators.py',
+   'PYMODULE'),
+  ('aiogram.methods.get_chat',
+   'E:\\projects\\амосрм '
+   'обнова\\venv\\Lib\\site-packages\\aiogram\\methods\\get_chat.py',
+   'PYMODULE'),
+  ('aiogram.methods.forward_messages',
+   'E:\\projects\\амосрм '
+   'обнова\\venv\\Lib\\site-packages\\aiogram\\methods\\forward_messages.py',
+   'PYMODULE'),
+  ('aiogram.methods.forward_message',
+   'E:\\projects\\амосрм '
+   'обнова\\venv\\Lib\\site-packages\\aiogram\\methods\\forward_message.py',
+   'PYMODULE'),
+  ('aiogram.methods.export_chat_invite_link',
+   'E:\\projects\\амосрм '
+   'обнова\\venv\\Lib\\site-packages\\aiogram\\methods\\export_chat_invite_link.py',
+   'PYMODULE'),
+  ('aiogram.methods.edit_message_text',
+   'E:\\projects\\амосрм '
+   'обнова\\venv\\Lib\\site-packages\\aiogram\\methods\\edit_message_text.py',
+   'PYMODULE'),
+  ('aiogram.methods.edit_message_reply_markup',
+   'E:\\projects\\амосрм '
+   'обнова\\venv\\Lib\\site-packages\\aiogram\\methods\\edit_message_reply_markup.py',
+   'PYMODULE'),
+  ('aiogram.methods.edit_message_media',
+   'E:\\projects\\амосрм '
+   'обнова\\venv\\Lib\\site-packages\\aiogram\\methods\\edit_message_media.py',
+   'PYMODULE'),
+  ('aiogram.methods.edit_message_live_location',
+   'E:\\projects\\амосрм '
+   'обнова\\venv\\Lib\\site-packages\\aiogram\\methods\\edit_message_live_location.py',
+   'PYMODULE'),
+  ('aiogram.methods.edit_message_caption',
+   'E:\\projects\\амосрм '
+   'обнова\\venv\\Lib\\site-packages\\aiogram\\methods\\edit_message_caption.py',
+   'PYMODULE'),
+  ('aiogram.methods.edit_general_forum_topic',
+   'E:\\projects\\амосрм '
+   'обнова\\venv\\Lib\\site-packages\\aiogram\\methods\\edit_general_forum_topic.py',
+   'PYMODULE'),
+  ('aiogram.methods.edit_forum_topic',
+   'E:\\projects\\амосрм '
+   'обнова\\venv\\Lib\\site-packages\\aiogram\\methods\\edit_forum_topic.py',
+   'PYMODULE'),
+  ('aiogram.methods.edit_chat_invite_link',
+   'E:\\projects\\амосрм '
+   'обнова\\venv\\Lib\\site-packages\\aiogram\\methods\\edit_chat_invite_link.py',
+   'PYMODULE'),
+  ('aiogram.methods.delete_webhook',
+   'E:\\projects\\амосрм '
+   'обнова\\venv\\Lib\\site-packages\\aiogram\\methods\\delete_webhook.py',
+   'PYMODULE'),
+  ('aiogram.methods.delete_sticker_set',
+   'E:\\projects\\амосрм '
+   'обнова\\venv\\Lib\\site-packages\\aiogram\\methods\\delete_sticker_set.py',
+   'PYMODULE'),
+  ('aiogram.methods.delete_sticker_from_set',
+   'E:\\projects\\амосрм '
+   'обнова\\venv\\Lib\\site-packages\\aiogram\\methods\\delete_sticker_from_set.py',
+   'PYMODULE'),
+  ('aiogram.methods.delete_my_commands',
+   'E:\\projects\\амосрм '
+   'обнова\\venv\\Lib\\site-packages\\aiogram\\methods\\delete_my_commands.py',
+   'PYMODULE'),
+  ('aiogram.methods.delete_messages',
+   'E:\\projects\\амосрм '
+   'обнова\\venv\\Lib\\site-packages\\aiogram\\methods\\delete_messages.py',
+   'PYMODULE'),
+  ('aiogram.methods.delete_message',
+   'E:\\projects\\амосрм '
+   'обнова\\venv\\Lib\\site-packages\\aiogram\\methods\\delete_message.py',
+   'PYMODULE'),
+  ('aiogram.methods.delete_forum_topic',
+   'E:\\projects\\амосрм '
+   'обнова\\venv\\Lib\\site-packages\\aiogram\\methods\\delete_forum_topic.py',
+   'PYMODULE'),
+  ('aiogram.methods.delete_chat_sticker_set',
+   'E:\\projects\\амосрм '
+   'обнова\\venv\\Lib\\site-packages\\aiogram\\methods\\delete_chat_sticker_set.py',
+   'PYMODULE'),
+  ('aiogram.methods.delete_chat_photo',
+   'E:\\projects\\амосрм '
+   'обнова\\venv\\Lib\\site-packages\\aiogram\\methods\\delete_chat_photo.py',
+   'PYMODULE'),
+  ('aiogram.methods.decline_chat_join_request',
+   'E:\\projects\\амосрм '
+   'обнова\\venv\\Lib\\site-packages\\aiogram\\methods\\decline_chat_join_request.py',
+   'PYMODULE'),
+  ('aiogram.methods.create_new_sticker_set',
+   'E:\\projects\\амосрм '
+   'обнова\\venv\\Lib\\site-packages\\aiogram\\methods\\create_new_sticker_set.py',
+   'PYMODULE'),
+  ('aiogram.methods.create_invoice_link',
+   'E:\\projects\\амосрм '
+   'обнова\\venv\\Lib\\site-packages\\aiogram\\methods\\create_invoice_link.py',
+   'PYMODULE'),
+  ('aiogram.methods.create_forum_topic',
+   'E:\\projects\\амосрм '
+   'обнова\\venv\\Lib\\site-packages\\aiogram\\methods\\create_forum_topic.py',
+   'PYMODULE'),
+  ('aiogram.methods.create_chat_invite_link',
+   'E:\\projects\\амосрм '
+   'обнова\\venv\\Lib\\site-packages\\aiogram\\methods\\create_chat_invite_link.py',
+   'PYMODULE'),
+  ('aiogram.methods.copy_messages',
+   'E:\\projects\\амосрм '
+   'обнова\\venv\\Lib\\site-packages\\aiogram\\methods\\copy_messages.py',
+   'PYMODULE'),
+  ('aiogram.methods.copy_message',
+   'E:\\projects\\амосрм '
+   'обнова\\venv\\Lib\\site-packages\\aiogram\\methods\\copy_message.py',
+   'PYMODULE'),
+  ('aiogram.methods.close_general_forum_topic',
+   'E:\\projects\\амосрм '
+   'обнова\\venv\\Lib\\site-packages\\aiogram\\methods\\close_general_forum_topic.py',
+   'PYMODULE'),
+  ('aiogram.methods.close_forum_topic',
+   'E:\\projects\\амосрм '
+   'обнова\\venv\\Lib\\site-packages\\aiogram\\methods\\close_forum_topic.py',
+   'PYMODULE'),
+  ('aiogram.methods.close',
+   'E:\\projects\\амосрм '
+   'обнова\\venv\\Lib\\site-packages\\aiogram\\methods\\close.py',
+   'PYMODULE'),
+  ('aiogram.methods.base',
+   'E:\\projects\\амосрм '
+   'обнова\\venv\\Lib\\site-packages\\aiogram\\methods\\base.py',
+   'PYMODULE'),
+  ('aiogram.client.bot',
+   'E:\\projects\\амосрм '
+   'обнова\\venv\\Lib\\site-packages\\aiogram\\client\\bot.py',
+   'PYMODULE'),
+  ('aiogram.client.session.base',
+   'E:\\projects\\амосрм '
+   'обнова\\venv\\Lib\\site-packages\\aiogram\\client\\session\\base.py',
+   'PYMODULE'),
+  ('aiogram.client.session',
+   'E:\\projects\\амосрм '
+   'обнова\\venv\\Lib\\site-packages\\aiogram\\client\\session\\__init__.py',
+   'PYMODULE'),
+  ('aiogram.client.session.middlewares.manager',
+   'E:\\projects\\амосрм '
+   'обнова\\venv\\Lib\\site-packages\\aiogram\\client\\session\\middlewares\\manager.py',
+   'PYMODULE'),
+  ('aiogram.client.session.middlewares',
+   'E:\\projects\\амосрм '
+   'обнова\\venv\\Lib\\site-packages\\aiogram\\client\\session\\middlewares\\__init__.py',
+   'PYMODULE'),
+  ('aiogram.client.session.middlewares.base',
+   'E:\\projects\\амосрм '
+   'обнова\\venv\\Lib\\site-packages\\aiogram\\client\\session\\middlewares\\base.py',
+   'PYMODULE'),
+  ('aiogram.client.telegram',
+   'E:\\projects\\амосрм '
+   'обнова\\venv\\Lib\\site-packages\\aiogram\\client\\telegram.py',
+   'PYMODULE'),
+  ('aiogram.exceptions',
+   'E:\\projects\\амосрм '
+   'обнова\\venv\\Lib\\site-packages\\aiogram\\exceptions.py',
+   'PYMODULE'),
+  ('aiogram.client.session.aiohttp',
+   'E:\\projects\\амосрм '
+   'обнова\\venv\\Lib\\site-packages\\aiogram\\client\\session\\aiohttp.py',
+   'PYMODULE'),
+  ('aiogram.__meta__',
+   'E:\\projects\\амосрм '
+   'обнова\\venv\\Lib\\site-packages\\aiogram\\__meta__.py',
+   'PYMODULE'),
+  ('aiohttp.http',
+   'E:\\projects\\амосрм обнова\\venv\\Lib\\site-packages\\aiohttp\\http.py',
+   'PYMODULE'),
+  ('aiohttp.http_writer',
+   'E:\\projects\\амосрм '
+   'обнова\\venv\\Lib\\site-packages\\aiohttp\\http_writer.py',
+   'PYMODULE'),
+  ('aiohttp.helpers',
+   'E:\\projects\\амосрм обнова\\venv\\Lib\\site-packages\\aiohttp\\helpers.py',
+   'PYMODULE'),
+  ('aiohttp.log',
+   'E:\\projects\\амосрм обнова\\venv\\Lib\\site-packages\\aiohttp\\log.py',
+   'PYMODULE'),
+  ('yarl',
+   'E:\\projects\\амосрм обнова\\venv\\Lib\\site-packages\\yarl\\__init__.py',
+   'PYMODULE'),
+  ('yarl._url',
+   'E:\\projects\\амосрм обнова\\venv\\Lib\\site-packages\\yarl\\_url.py',
+   'PYMODULE'),
+  ('yarl._quoting',
+   'E:\\projects\\амосрм обнова\\venv\\Lib\\site-packages\\yarl\\_quoting.py',
+   'PYMODULE'),
+  ('yarl._quoting_py',
+   'E:\\projects\\амосрм '
+   'обнова\\venv\\Lib\\site-packages\\yarl\\_quoting_py.py',
+   'PYMODULE'),
+  ('idna',
+   'E:\\projects\\амосрм обнова\\venv\\Lib\\site-packages\\idna\\__init__.py',
+   'PYMODULE'),
+  ('idna.intranges',
+   'E:\\projects\\амосрм обнова\\venv\\Lib\\site-packages\\idna\\intranges.py',
+   'PYMODULE'),
+  ('idna.core',
+   'E:\\projects\\амосрм обнова\\venv\\Lib\\site-packages\\idna\\core.py',
+   'PYMODULE'),
+  ('idna.uts46data',
+   'E:\\projects\\амосрм обнова\\venv\\Lib\\site-packages\\idna\\uts46data.py',
+   'PYMODULE'),
+  ('idna.idnadata',
+   'E:\\projects\\амосрм обнова\\venv\\Lib\\site-packages\\idna\\idnadata.py',
+   'PYMODULE'),
+  ('idna.package_data',
+   'E:\\projects\\амосрм '
+   'обнова\\venv\\Lib\\site-packages\\idna\\package_data.py',
+   'PYMODULE'),
+  ('attr',
+   'E:\\projects\\амосрм обнова\\venv\\Lib\\site-packages\\attr\\__init__.py',
+   'PYMODULE'),
+  ('attr._version_info',
+   'E:\\projects\\амосрм '
+   'обнова\\venv\\Lib\\site-packages\\attr\\_version_info.py',
+   'PYMODULE'),
+  ('attr._next_gen',
+   'E:\\projects\\амосрм обнова\\venv\\Lib\\site-packages\\attr\\_next_gen.py',
+   'PYMODULE'),
+  ('attr._make',
+   'E:\\projects\\амосрм обнова\\venv\\Lib\\site-packages\\attr\\_make.py',
+   'PYMODULE'),
+  ('attr._funcs',
+   'E:\\projects\\амосрм обнова\\venv\\Lib\\site-packages\\attr\\_funcs.py',
+   'PYMODULE'),
+  ('attr._compat',
+   'E:\\projects\\амосрм обнова\\venv\\Lib\\site-packages\\attr\\_compat.py',
+   'PYMODULE'),
+  ('attr._cmp',
+   'E:\\projects\\амосрм обнова\\venv\\Lib\\site-packages\\attr\\_cmp.py',
+   'PYMODULE'),
+  ('attr.validators',
+   'E:\\projects\\амосрм обнова\\venv\\Lib\\site-packages\\attr\\validators.py',
+   'PYMODULE'),
+  ('attr.filters',
+   'E:\\projects\\амосрм обнова\\venv\\Lib\\site-packages\\attr\\filters.py',
+   'PYMODULE'),
+  ('attr.exceptions',
+   'E:\\projects\\амосрм обнова\\venv\\Lib\\site-packages\\attr\\exceptions.py',
+   'PYMODULE'),
+  ('attr.converters',
+   'E:\\projects\\амосрм обнова\\venv\\Lib\\site-packages\\attr\\converters.py',
+   'PYMODULE'),
+  ('attr.setters',
+   'E:\\projects\\амосрм обнова\\venv\\Lib\\site-packages\\attr\\setters.py',
+   'PYMODULE'),
+  ('attr._config',
+   'E:\\projects\\амосрм обнова\\venv\\Lib\\site-packages\\attr\\_config.py',
+   'PYMODULE'),
+  ('aiohttp.compression_utils',
+   'E:\\projects\\амосрм '
+   'обнова\\venv\\Lib\\site-packages\\aiohttp\\compression_utils.py',
+   'PYMODULE'),
+  ('concurrent.futures',
+   'C:\\python\\Lib\\concurrent\\futures\\__init__.py',
+   'PYMODULE'),
+  ('concurrent.futures.thread',
+   'C:\\python\\Lib\\concurrent\\futures\\thread.py',
+   'PYMODULE'),
+  ('concurrent.futures.process',
+   'C:\\python\\Lib\\concurrent\\futures\\process.py',
+   'PYMODULE'),
+  ('concurrent.futures._base',
+   'C:\\python\\Lib\\concurrent\\futures\\_base.py',
+   'PYMODULE'),
+  ('concurrent', 'C:\\python\\Lib\\concurrent\\__init__.py', 'PYMODULE'),
+  ('aiohttp.base_protocol',
+   'E:\\projects\\амосрм '
+   'обнова\\venv\\Lib\\site-packages\\aiohttp\\base_protocol.py',
+   'PYMODULE'),
+  ('aiohttp.tcp_helpers',
+   'E:\\projects\\амосрм '
+   'обнова\\venv\\Lib\\site-packages\\aiohttp\\tcp_helpers.py',
+   'PYMODULE'),
+  ('aiohttp.abc',
+   'E:\\projects\\амосрм обнова\\venv\\Lib\\site-packages\\aiohttp\\abc.py',
+   'PYMODULE'),
+  ('aiohttp.web_response',
+   'E:\\projects\\амосрм '
+   'обнова\\venv\\Lib\\site-packages\\aiohttp\\web_response.py',
+   'PYMODULE'),
+  ('aiohttp.payload',
+   'E:\\projects\\амосрм обнова\\venv\\Lib\\site-packages\\aiohttp\\payload.py',
+   'PYMODULE'),
+  ('aiohttp.streams',
+   'E:\\projects\\амосрм обнова\\venv\\Lib\\site-packages\\aiohttp\\streams.py',
+   'PYMODULE'),
+  ('aiohttp.web_request',
+   'E:\\projects\\амосрм '
+   'обнова\\venv\\Lib\\site-packages\\aiohttp\\web_request.py',
+   'PYMODULE'),
+  ('aiohttp.web_urldispatcher',
+   'E:\\projects\\амосрм '
+   'обнова\\venv\\Lib\\site-packages\\aiohttp\\web_urldispatcher.py',
+   'PYMODULE'),
+  ('aiohttp.web_routedef',
+   'E:\\projects\\амосрм '
+   'обнова\\venv\\Lib\\site-packages\\aiohttp\\web_routedef.py',
+   'PYMODULE'),
+  ('aiohttp.web_fileresponse',
+   'E:\\projects\\амосрм '
+   'обнова\\venv\\Lib\\site-packages\\aiohttp\\web_fileresponse.py',
+   'PYMODULE'),
+  ('html', 'C:\\python\\Lib\\html\\__init__.py', 'PYMODULE'),
+  ('html.entities', 'C:\\python\\Lib\\html\\entities.py', 'PYMODULE'),
+  ('aiohttp.web_protocol',
+   'E:\\projects\\амосрм '
+   'обнова\\venv\\Lib\\site-packages\\aiohttp\\web_protocol.py',
+   'PYMODULE'),
+  ('aiohttp.web_server',
+   'E:\\projects\\амосрм '
+   'обнова\\venv\\Lib\\site-packages\\aiohttp\\web_server.py',
+   'PYMODULE'),
+  ('aiohttp.web_log',
+   'E:\\projects\\амосрм обнова\\venv\\Lib\\site-packages\\aiohttp\\web_log.py',
+   'PYMODULE'),
+  ('asyncio.streams', 'C:\\python\\Lib\\asyncio\\streams.py', 'PYMODULE'),
+  ('asyncio.tasks', 'C:\\python\\Lib\\asyncio\\tasks.py', 'PYMODULE'),
+  ('asyncio.queues', 'C:\\python\\Lib\\asyncio\\queues.py', 'PYMODULE'),
+  ('asyncio.mixins', 'C:\\python\\Lib\\asyncio\\mixins.py', 'PYMODULE'),
+  ('asyncio.locks', 'C:\\python\\Lib\\asyncio\\locks.py', 'PYMODULE'),
+  ('asyncio.futures', 'C:\\python\\Lib\\asyncio\\futures.py', 'PYMODULE'),
+  ('asyncio.base_futures',
+   'C:\\python\\Lib\\asyncio\\base_futures.py',
+   'PYMODULE'),
+  ('asyncio.base_tasks', 'C:\\python\\Lib\\asyncio\\base_tasks.py', 'PYMODULE'),
+  ('asyncio.log', 'C:\\python\\Lib\\asyncio\\log.py', 'PYMODULE'),
+  ('asyncio.protocols', 'C:\\python\\Lib\\asyncio\\protocols.py', 'PYMODULE'),
+  ('asyncio.format_helpers',
+   'C:\\python\\Lib\\asyncio\\format_helpers.py',
+   'PYMODULE'),
+  ('asyncio.constants', 'C:\\python\\Lib\\asyncio\\constants.py', 'PYMODULE'),
+  ('asyncio.exceptions', 'C:\\python\\Lib\\asyncio\\exceptions.py', 'PYMODULE'),
+  ('asyncio.events', 'C:\\python\\Lib\\asyncio\\events.py', 'PYMODULE'),
+  ('asyncio.coroutines', 'C:\\python\\Lib\\asyncio\\coroutines.py', 'PYMODULE'),
+  ('aiohttp.multipart',
+   'E:\\projects\\амосрм '
+   'обнова\\venv\\Lib\\site-packages\\aiohttp\\multipart.py',
+   'PYMODULE'),
+  ('aiohttp.client_reqrep',
+   'E:\\projects\\амосрм '
+   'обнова\\venv\\Lib\\site-packages\\aiohttp\\client_reqrep.py',
+   'PYMODULE'),
+  ('aiohttp.tracing',
+   'E:\\projects\\амосрм обнова\\venv\\Lib\\site-packages\\aiohttp\\tracing.py',
+   'PYMODULE'),
+  ('aiosignal',
+   'E:\\projects\\амосрм '
+   'обнова\\venv\\Lib\\site-packages\\aiosignal\\__init__.py',
+   'PYMODULE'),
+  ('frozenlist',
+   'E:\\projects\\амосрм '
+   'обнова\\venv\\Lib\\site-packages\\frozenlist\\__init__.py',
+   'PYMODULE'),
+  ('aiohttp.connector',
+   'E:\\projects\\амосрм '
+   'обнова\\venv\\Lib\\site-packages\\aiohttp\\connector.py',
+   'PYMODULE'),
+  ('aiohttp.resolver',
+   'E:\\projects\\амосрм '
+   'обнова\\venv\\Lib\\site-packages\\aiohttp\\resolver.py',
+   'PYMODULE'),
+  ('aiohttp.locks',
+   'E:\\projects\\амосрм обнова\\venv\\Lib\\site-packages\\aiohttp\\locks.py',
+   'PYMODULE'),
+  ('aiohttp.client_proto',
+   'E:\\projects\\амосрм '
+   'обнова\\venv\\Lib\\site-packages\\aiohttp\\client_proto.py',
+   'PYMODULE'),
+  ('aiohttp.client',
+   'E:\\projects\\амосрм обнова\\venv\\Lib\\site-packages\\aiohttp\\client.py',
+   'PYMODULE'),
+  ('aiohttp.cookiejar',
+   'E:\\projects\\амосрм '
+   'обнова\\venv\\Lib\\site-packages\\aiohttp\\cookiejar.py',
+   'PYMODULE'),
+  ('aiohttp.client_ws',
+   'E:\\projects\\амосрм '
+   'обнова\\venv\\Lib\\site-packages\\aiohttp\\client_ws.py',
+   'PYMODULE'),
+  ('aiohttp.formdata',
+   'E:\\projects\\амосрм '
+   'обнова\\venv\\Lib\\site-packages\\aiohttp\\formdata.py',
+   'PYMODULE'),
+  ('aiohttp.client_exceptions',
+   'E:\\projects\\амосрм '
+   'обнова\\venv\\Lib\\site-packages\\aiohttp\\client_exceptions.py',
+   'PYMODULE'),
+  ('aiohttp.web_exceptions',
+   'E:\\projects\\амосрм '
+   'обнова\\venv\\Lib\\site-packages\\aiohttp\\web_exceptions.py',
+   'PYMODULE'),
+  ('aiohttp.web_app',
+   'E:\\projects\\амосрм обнова\\venv\\Lib\\site-packages\\aiohttp\\web_app.py',
+   'PYMODULE'),
+  ('aiohttp.web_middlewares',
+   'E:\\projects\\амосрм '
+   'обнова\\venv\\Lib\\site-packages\\aiohttp\\web_middlewares.py',
+   'PYMODULE'),
+  ('aiohttp.typedefs',
+   'E:\\projects\\амосрм '
+   'обнова\\venv\\Lib\\site-packages\\aiohttp\\typedefs.py',
+   'PYMODULE'),
+  ('aiohttp.web',
+   'E:\\projects\\амосрм обнова\\venv\\Lib\\site-packages\\aiohttp\\web.py',
+   'PYMODULE'),
+  ('aiohttp.web_ws',
+   'E:\\projects\\амосрм обнова\\venv\\Lib\\site-packages\\aiohttp\\web_ws.py',
+   'PYMODULE'),
+  ('aiohttp.web_runner',
+   'E:\\projects\\амосрм '
+   'обнова\\venv\\Lib\\site-packages\\aiohttp\\web_runner.py',
+   'PYMODULE'),
+  ('http.cookies', 'C:\\python\\Lib\\http\\cookies.py', 'PYMODULE'),
+  ('multidict',
+   'E:\\projects\\амосрм '
+   'обнова\\venv\\Lib\\site-packages\\multidict\\__init__.py',
+   'PYMODULE'),
+  ('multidict._multidict_py',
+   'E:\\projects\\амосрм '
+   'обнова\\venv\\Lib\\site-packages\\multidict\\_multidict_py.py',
+   'PYMODULE'),
+  ('multidict._compat',
+   'E:\\projects\\амосрм '
+   'обнова\\venv\\Lib\\site-packages\\multidict\\_compat.py',
+   'PYMODULE'),
+  ('multidict._abc',
+   'E:\\projects\\амосрм обнова\\venv\\Lib\\site-packages\\multidict\\_abc.py',
+   'PYMODULE'),
+  ('aiohttp.http_websocket',
+   'E:\\projects\\амосрм '
+   'обнова\\venv\\Lib\\site-packages\\aiohttp\\http_websocket.py',
+   'PYMODULE'),
+  ('aiohttp.http_parser',
+   'E:\\projects\\амосрм '
+   'обнова\\venv\\Lib\\site-packages\\aiohttp\\http_parser.py',
+   'PYMODULE'),
+  ('aiohttp.http_exceptions',
+   'E:\\projects\\амосрм '
+   'обнова\\venv\\Lib\\site-packages\\aiohttp\\http_exceptions.py',
+   'PYMODULE'),
+  ('aiohttp.hdrs',
+   'E:\\projects\\амосрм обнова\\venv\\Lib\\site-packages\\aiohttp\\hdrs.py',
+   'PYMODULE'),
+  ('aiohttp',
+   'E:\\projects\\амосрм '
+   'обнова\\venv\\Lib\\site-packages\\aiohttp\\__init__.py',
+   'PYMODULE'),
+  ('aiohttp.worker',
+   'E:\\projects\\амосрм обнова\\venv\\Lib\\site-packages\\aiohttp\\worker.py',
+   'PYMODULE'),
+  ('aiohttp.payload_streamer',
+   'E:\\projects\\амосрм '
+   'обнова\\venv\\Lib\\site-packages\\aiohttp\\payload_streamer.py',
+   'PYMODULE'),
+  ('certifi',
+   'E:\\projects\\амосрм '
+   'обнова\\venv\\Lib\\site-packages\\certifi\\__init__.py',
+   'PYMODULE'),
+  ('certifi.core',
+   'E:\\projects\\амосрм обнова\\venv\\Lib\\site-packages\\certifi\\core.py',
+   'PYMODULE'),
+  ('aiogram.utils.token',
+   'E:\\projects\\амосрм '
+   'обнова\\venv\\Lib\\site-packages\\aiogram\\utils\\token.py',
+   'PYMODULE'),
+  ('aiofiles',
+   'E:\\projects\\амосрм '
+   'обнова\\venv\\Lib\\site-packages\\aiofiles\\__init__.py',
+   'PYMODULE'),
+  ('aiofiles.tempfile',
+   'E:\\projects\\амосрм '
+   'обнова\\venv\\Lib\\site-packages\\aiofiles\\tempfile\\__init__.py',
+   'PYMODULE'),
+  ('aiofiles.tempfile.temptypes',
+   'E:\\projects\\амосрм '
+   'обнова\\venv\\Lib\\site-packages\\aiofiles\\tempfile\\temptypes.py',
+   'PYMODULE'),
+  ('aiofiles.threadpool.utils',
+   'E:\\projects\\амосрм '
+   'обнова\\venv\\Lib\\site-packages\\aiofiles\\threadpool\\utils.py',
+   'PYMODULE'),
+  ('aiofiles.threadpool.text',
+   'E:\\projects\\амосрм '
+   'обнова\\venv\\Lib\\site-packages\\aiofiles\\threadpool\\text.py',
+   'PYMODULE'),
+  ('aiofiles.threadpool.binary',
+   'E:\\projects\\амосрм '
+   'обнова\\venv\\Lib\\site-packages\\aiofiles\\threadpool\\binary.py',
+   'PYMODULE'),
+  ('aiofiles.base',
+   'E:\\projects\\амосрм обнова\\venv\\Lib\\site-packages\\aiofiles\\base.py',
+   'PYMODULE'),
+  ('aiofiles.threadpool',
+   'E:\\projects\\амосрм '
+   'обнова\\venv\\Lib\\site-packages\\aiofiles\\threadpool\\__init__.py',
+   'PYMODULE'),
+  ('aiogram.client.context_controller',
+   'E:\\projects\\амосрм '
+   'обнова\\venv\\Lib\\site-packages\\aiogram\\client\\context_controller.py',
+   'PYMODULE'),
+  ('aiogram.methods.ban_chat_sender_chat',
+   'E:\\projects\\амосрм '
+   'обнова\\venv\\Lib\\site-packages\\aiogram\\methods\\ban_chat_sender_chat.py',
+   'PYMODULE'),
+  ('aiogram.methods.ban_chat_member',
+   'E:\\projects\\амосрм '
+   'обнова\\venv\\Lib\\site-packages\\aiogram\\methods\\ban_chat_member.py',
+   'PYMODULE'),
+  ('aiogram.methods.approve_chat_join_request',
+   'E:\\projects\\амосрм '
+   'обнова\\venv\\Lib\\site-packages\\aiogram\\methods\\approve_chat_join_request.py',
+   'PYMODULE'),
+  ('aiogram.methods.answer_web_app_query',
+   'E:\\projects\\амосрм '
+   'обнова\\venv\\Lib\\site-packages\\aiogram\\methods\\answer_web_app_query.py',
+   'PYMODULE'),
+  ('aiogram.methods.answer_shipping_query',
+   'E:\\projects\\амосрм '
+   'обнова\\venv\\Lib\\site-packages\\aiogram\\methods\\answer_shipping_query.py',
+   'PYMODULE'),
+  ('aiogram.methods.answer_pre_checkout_query',
+   'E:\\projects\\амосрм '
+   'обнова\\venv\\Lib\\site-packages\\aiogram\\methods\\answer_pre_checkout_query.py',
+   'PYMODULE'),
+  ('aiogram.methods.answer_inline_query',
+   'E:\\projects\\амосрм '
+   'обнова\\venv\\Lib\\site-packages\\aiogram\\methods\\answer_inline_query.py',
+   'PYMODULE'),
+  ('aiogram.methods.answer_callback_query',
+   'E:\\projects\\амосрм '
+   'обнова\\venv\\Lib\\site-packages\\aiogram\\methods\\answer_callback_query.py',
+   'PYMODULE'),
+  ('aiogram.methods.add_sticker_to_set',
+   'E:\\projects\\амосрм '
+   'обнова\\venv\\Lib\\site-packages\\aiogram\\methods\\add_sticker_to_set.py',
+   'PYMODULE'),
+  ('aiogram.utils.link',
+   'E:\\projects\\амосрм '
+   'обнова\\venv\\Lib\\site-packages\\aiogram\\utils\\link.py',
+   'PYMODULE'),
+  ('aiogram.utils.markdown',
+   'E:\\projects\\амосрм '
+   'обнова\\venv\\Lib\\site-packages\\aiogram\\utils\\markdown.py',
+   'PYMODULE'),
+  ('aiogram.utils.text_decorations',
+   'E:\\projects\\амосрм '
+   'обнова\\venv\\Lib\\site-packages\\aiogram\\utils\\text_decorations.py',
+   'PYMODULE'),
+  ('aiogram.utils',
+   'E:\\projects\\амосрм '
+   'обнова\\venv\\Lib\\site-packages\\aiogram\\utils\\__init__.py',
+   'PYMODULE'),
+  ('aiogram.types.update',
+   'E:\\projects\\амосрм '
+   'обнова\\venv\\Lib\\site-packages\\aiogram\\types\\update.py',
+   'PYMODULE'),
+  ('aiogram.utils.mypy_hacks',
+   'E:\\projects\\амосрм '
+   'обнова\\venv\\Lib\\site-packages\\aiogram\\utils\\mypy_hacks.py',
+   'PYMODULE'),
+  ('aiogram.types.text_quote',
+   'E:\\projects\\амосрм '
+   'обнова\\venv\\Lib\\site-packages\\aiogram\\types\\text_quote.py',
+   'PYMODULE'),
+  ('aiogram.types.switch_inline_query_chosen_chat',
+   'E:\\projects\\амосрм '
+   'обнова\\venv\\Lib\\site-packages\\aiogram\\types\\switch_inline_query_chosen_chat.py',
+   'PYMODULE'),
+  ('aiogram.types.successful_payment',
+   'E:\\projects\\амосрм '
+   'обнова\\venv\\Lib\\site-packages\\aiogram\\types\\successful_payment.py',
+   'PYMODULE'),
+  ('aiogram.types.story',
+   'E:\\projects\\амосрм '
+   'обнова\\venv\\Lib\\site-packages\\aiogram\\types\\story.py',
+   'PYMODULE'),
+  ('aiogram.types.sticker_set',
+   'E:\\projects\\амосрм '
+   'обнова\\venv\\Lib\\site-packages\\aiogram\\types\\sticker_set.py',
+   'PYMODULE'),
+  ('aiogram.types.sticker',
+   'E:\\projects\\амосрм '
+   'обнова\\venv\\Lib\\site-packages\\aiogram\\types\\sticker.py',
+   'PYMODULE'),
+  ('aiogram.types.shipping_query',
+   'E:\\projects\\амосрм '
+   'обнова\\venv\\Lib\\site-packages\\aiogram\\types\\shipping_query.py',
+   'PYMODULE'),
+  ('aiogram.types.shipping_option',
+   'E:\\projects\\амосрм '
+   'обнова\\venv\\Lib\\site-packages\\aiogram\\types\\shipping_option.py',
+   'PYMODULE'),
+  ('aiogram.types.shipping_address',
+   'E:\\projects\\амосрм '
+   'обнова\\venv\\Lib\\site-packages\\aiogram\\types\\shipping_address.py',
+   'PYMODULE'),
+  ('aiogram.types.sent_web_app_message',
+   'E:\\projects\\амосрм '
+   'обнова\\venv\\Lib\\site-packages\\aiogram\\types\\sent_web_app_message.py',
+   'PYMODULE'),
+  ('aiogram.types.response_parameters',
+   'E:\\projects\\амосрм '
+   'обнова\\venv\\Lib\\site-packages\\aiogram\\types\\response_parameters.py',
+   'PYMODULE'),
+  ('aiogram.types.reply_parameters',
+   'E:\\projects\\амосрм '
+   'обнова\\venv\\Lib\\site-packages\\aiogram\\types\\reply_parameters.py',
+   'PYMODULE'),
+  ('aiogram.types.reply_keyboard_remove',
+   'E:\\projects\\амосрм '
+   'обнова\\venv\\Lib\\site-packages\\aiogram\\types\\reply_keyboard_remove.py',
+   'PYMODULE'),
+  ('aiogram.types.reply_keyboard_markup',
+   'E:\\projects\\амосрм '
+   'обнова\\venv\\Lib\\site-packages\\aiogram\\types\\reply_keyboard_markup.py',
+   'PYMODULE'),
+  ('aiogram.types.reaction_type_emoji',
+   'E:\\projects\\амосрм '
+   'обнова\\venv\\Lib\\site-packages\\aiogram\\types\\reaction_type_emoji.py',
+   'PYMODULE'),
+  ('aiogram.types.reaction_type_custom_emoji',
+   'E:\\projects\\амосрм '
+   'обнова\\venv\\Lib\\site-packages\\aiogram\\types\\reaction_type_custom_emoji.py',
+   'PYMODULE'),
+  ('aiogram.types.reaction_type',
+   'E:\\projects\\амосрм '
+   'обнова\\venv\\Lib\\site-packages\\aiogram\\types\\reaction_type.py',
+   'PYMODULE'),
+  ('aiogram.types.reaction_count',
+   'E:\\projects\\амосрм '
+   'обнова\\venv\\Lib\\site-packages\\aiogram\\types\\reaction_count.py',
+   'PYMODULE'),
+  ('aiogram.types.proximity_alert_triggered',
+   'E:\\projects\\амосрм '
+   'обнова\\venv\\Lib\\site-packages\\aiogram\\types\\proximity_alert_triggered.py',
+   'PYMODULE'),
+  ('aiogram.types.pre_checkout_query',
+   'E:\\projects\\амосрм '
+   'обнова\\venv\\Lib\\site-packages\\aiogram\\types\\pre_checkout_query.py',
+   'PYMODULE'),
+  ('aiogram.types.poll_option',
+   'E:\\projects\\амосрм '
+   'обнова\\venv\\Lib\\site-packages\\aiogram\\types\\poll_option.py',
+   'PYMODULE'),
+  ('aiogram.types.poll_answer',
+   'E:\\projects\\амосрм '
+   'обнова\\venv\\Lib\\site-packages\\aiogram\\types\\poll_answer.py',
+   'PYMODULE'),
+  ('aiogram.types.poll',
+   'E:\\projects\\амосрм '
+   'обнова\\venv\\Lib\\site-packages\\aiogram\\types\\poll.py',
+   'PYMODULE'),
+  ('aiogram.types.photo_size',
+   'E:\\projects\\амосрм '
+   'обнова\\venv\\Lib\\site-packages\\aiogram\\types\\photo_size.py',
+   'PYMODULE'),
+  ('aiogram.types.passport_file',
+   'E:\\projects\\амосрм '
+   'обнова\\venv\\Lib\\site-packages\\aiogram\\types\\passport_file.py',
+   'PYMODULE'),
+  ('aiogram.types.passport_element_error_unspecified',
+   'E:\\projects\\амосрм '
+   'обнова\\venv\\Lib\\site-packages\\aiogram\\types\\passport_element_error_unspecified.py',
+   'PYMODULE'),
+  ('aiogram.types.passport_element_error_translation_files',
+   'E:\\projects\\амосрм '
+   'обнова\\venv\\Lib\\site-packages\\aiogram\\types\\passport_element_error_translation_files.py',
+   'PYMODULE'),
+  ('aiogram.types.passport_element_error_translation_file',
+   'E:\\projects\\амосрм '
+   'обнова\\venv\\Lib\\site-packages\\aiogram\\types\\passport_element_error_translation_file.py',
+   'PYMODULE'),
+  ('aiogram.types.passport_element_error_selfie',
+   'E:\\projects\\амосрм '
+   'обнова\\venv\\Lib\\site-packages\\aiogram\\types\\passport_element_error_selfie.py',
+   'PYMODULE'),
+  ('aiogram.types.passport_element_error_reverse_side',
+   'E:\\projects\\амосрм '
+   'обнова\\venv\\Lib\\site-packages\\aiogram\\types\\passport_element_error_reverse_side.py',
+   'PYMODULE'),
+  ('aiogram.types.passport_element_error_front_side',
+   'E:\\projects\\амосрм '
+   'обнова\\venv\\Lib\\site-packages\\aiogram\\types\\passport_element_error_front_side.py',
+   'PYMODULE'),
+  ('aiogram.types.passport_element_error_files',
+   'E:\\projects\\амосрм '
+   'обнова\\venv\\Lib\\site-packages\\aiogram\\types\\passport_element_error_files.py',
+   'PYMODULE'),
+  ('aiogram.types.passport_element_error_file',
+   'E:\\projects\\амосрм '
+   'обнова\\venv\\Lib\\site-packages\\aiogram\\types\\passport_element_error_file.py',
+   'PYMODULE'),
+  ('aiogram.types.passport_element_error_data_field',
+   'E:\\projects\\амосрм '
+   'обнова\\venv\\Lib\\site-packages\\aiogram\\types\\passport_element_error_data_field.py',
+   'PYMODULE'),
+  ('aiogram.types.passport_element_error',
+   'E:\\projects\\амосрм '
+   'обнова\\venv\\Lib\\site-packages\\aiogram\\types\\passport_element_error.py',
+   'PYMODULE'),
+  ('aiogram.types.passport_data',
+   'E:\\projects\\амосрм '
+   'обнова\\venv\\Lib\\site-packages\\aiogram\\types\\passport_data.py',
+   'PYMODULE'),
+  ('aiogram.types.order_info',
+   'E:\\projects\\амосрм '
+   'обнова\\venv\\Lib\\site-packages\\aiogram\\types\\order_info.py',
+   'PYMODULE'),
+  ('aiogram.types.message_reaction_updated',
+   'E:\\projects\\амосрм '
+   'обнова\\venv\\Lib\\site-packages\\aiogram\\types\\message_reaction_updated.py',
+   'PYMODULE'),
+  ('aiogram.types.message_reaction_count_updated',
+   'E:\\projects\\амосрм '
+   'обнова\\venv\\Lib\\site-packages\\aiogram\\types\\message_reaction_count_updated.py',
+   'PYMODULE'),
+  ('aiogram.types.message_origin_user',
+   'E:\\projects\\амосрм '
+   'обнова\\venv\\Lib\\site-packages\\aiogram\\types\\message_origin_user.py',
+   'PYMODULE'),
+  ('aiogram.types.message_origin_hidden_user',
+   'E:\\projects\\амосрм '
+   'обнова\\venv\\Lib\\site-packages\\aiogram\\types\\message_origin_hidden_user.py',
+   'PYMODULE'),
+  ('aiogram.types.message_origin_chat',
+   'E:\\projects\\амосрм '
+   'обнова\\venv\\Lib\\site-packages\\aiogram\\types\\message_origin_chat.py',
+   'PYMODULE'),
+  ('aiogram.types.message_origin_channel',
+   'E:\\projects\\амосрм '
+   'обнова\\venv\\Lib\\site-packages\\aiogram\\types\\message_origin_channel.py',
+   'PYMODULE'),
+  ('aiogram.types.message_origin',
+   'E:\\projects\\амосрм '
+   'обнова\\venv\\Lib\\site-packages\\aiogram\\types\\message_origin.py',
+   'PYMODULE'),
+  ('aiogram.types.message_id',
+   'E:\\projects\\амосрм '
+   'обнова\\venv\\Lib\\site-packages\\aiogram\\types\\message_id.py',
+   'PYMODULE'),
+  ('aiogram.types.message_entity',
+   'E:\\projects\\амосрм '
+   'обнова\\venv\\Lib\\site-packages\\aiogram\\types\\message_entity.py',
+   'PYMODULE'),
+  ('aiogram.types.message_auto_delete_timer_changed',
+   'E:\\projects\\амосрм '
+   'обнова\\venv\\Lib\\site-packages\\aiogram\\types\\message_auto_delete_timer_changed.py',
+   'PYMODULE'),
+  ('aiogram.types.message',
+   'E:\\projects\\амосрм '
+   'обнова\\venv\\Lib\\site-packages\\aiogram\\types\\message.py',
+   'PYMODULE'),
+  ('aiogram.types.menu_button_web_app',
+   'E:\\projects\\амосрм '
+   'обнова\\venv\\Lib\\site-packages\\aiogram\\types\\menu_button_web_app.py',
+   'PYMODULE'),
+  ('aiogram.types.menu_button_default',
+   'E:\\projects\\амосрм '
+   'обнова\\venv\\Lib\\site-packages\\aiogram\\types\\menu_button_default.py',
+   'PYMODULE'),
+  ('aiogram.types.menu_button_commands',
+   'E:\\projects\\амосрм '
+   'обнова\\venv\\Lib\\site-packages\\aiogram\\types\\menu_button_commands.py',
+   'PYMODULE'),
+  ('aiogram.types.menu_button',
+   'E:\\projects\\амосрм '
+   'обнова\\venv\\Lib\\site-packages\\aiogram\\types\\menu_button.py',
+   'PYMODULE'),
+  ('aiogram.types.maybe_inaccessible_message',
+   'E:\\projects\\амосрм '
+   'обнова\\venv\\Lib\\site-packages\\aiogram\\types\\maybe_inaccessible_message.py',
+   'PYMODULE'),
+  ('aiogram.types.mask_position',
+   'E:\\projects\\амосрм '
+   'обнова\\venv\\Lib\\site-packages\\aiogram\\types\\mask_position.py',
+   'PYMODULE'),
+  ('aiogram.types.login_url',
+   'E:\\projects\\амосрм '
+   'обнова\\venv\\Lib\\site-packages\\aiogram\\types\\login_url.py',
+   'PYMODULE'),
+  ('aiogram.types.location',
+   'E:\\projects\\амосрм '
+   'обнова\\venv\\Lib\\site-packages\\aiogram\\types\\location.py',
+   'PYMODULE'),
+  ('aiogram.types.link_preview_options',
+   'E:\\projects\\амосрм '
+   'обнова\\venv\\Lib\\site-packages\\aiogram\\types\\link_preview_options.py',
+   'PYMODULE'),
+  ('aiogram.types.labeled_price',
+   'E:\\projects\\амосрм '
+   'обнова\\venv\\Lib\\site-packages\\aiogram\\types\\labeled_price.py',
+   'PYMODULE'),
+  ('aiogram.types.keyboard_button_request_users',
+   'E:\\projects\\амосрм '
+   'обнова\\venv\\Lib\\site-packages\\aiogram\\types\\keyboard_button_request_users.py',
+   'PYMODULE'),
+  ('aiogram.types.keyboard_button_request_user',
+   'E:\\projects\\амосрм '
+   'обнова\\venv\\Lib\\site-packages\\aiogram\\types\\keyboard_button_request_user.py',
+   'PYMODULE'),
+  ('aiogram.types.keyboard_button_request_chat',
+   'E:\\projects\\амосрм '
+   'обнова\\venv\\Lib\\site-packages\\aiogram\\types\\keyboard_button_request_chat.py',
+   'PYMODULE'),
+  ('aiogram.types.keyboard_button_poll_type',
+   'E:\\projects\\амосрм '
+   'обнова\\venv\\Lib\\site-packages\\aiogram\\types\\keyboard_button_poll_type.py',
+   'PYMODULE'),
+  ('aiogram.types.keyboard_button',
+   'E:\\projects\\амосрм '
+   'обнова\\venv\\Lib\\site-packages\\aiogram\\types\\keyboard_button.py',
+   'PYMODULE'),
+  ('aiogram.types.invoice',
+   'E:\\projects\\амосрм '
+   'обнова\\venv\\Lib\\site-packages\\aiogram\\types\\invoice.py',
+   'PYMODULE'),
+  ('aiogram.types.input_venue_message_content',
+   'E:\\projects\\амосрм '
+   'обнова\\venv\\Lib\\site-packages\\aiogram\\types\\input_venue_message_content.py',
+   'PYMODULE'),
+  ('aiogram.types.input_text_message_content',
+   'E:\\projects\\амосрм '
+   'обнова\\venv\\Lib\\site-packages\\aiogram\\types\\input_text_message_content.py',
+   'PYMODULE'),
+  ('aiogram.types.input_sticker',
+   'E:\\projects\\амосрм '
+   'обнова\\venv\\Lib\\site-packages\\aiogram\\types\\input_sticker.py',
+   'PYMODULE'),
+  ('aiogram.types.input_message_content',
+   'E:\\projects\\амосрм '
+   'обнова\\venv\\Lib\\site-packages\\aiogram\\types\\input_message_content.py',
+   'PYMODULE'),
+  ('aiogram.types.input_media_video',
+   'E:\\projects\\амосрм '
+   'обнова\\venv\\Lib\\site-packages\\aiogram\\types\\input_media_video.py',
+   'PYMODULE'),
+  ('aiogram.types.input_media_photo',
+   'E:\\projects\\амосрм '
+   'обнова\\venv\\Lib\\site-packages\\aiogram\\types\\input_media_photo.py',
+   'PYMODULE'),
+  ('aiogram.types.input_media_document',
+   'E:\\projects\\амосрм '
+   'обнова\\venv\\Lib\\site-packages\\aiogram\\types\\input_media_document.py',
+   'PYMODULE'),
+  ('aiogram.types.input_media_audio',
+   'E:\\projects\\амосрм '
+   'обнова\\venv\\Lib\\site-packages\\aiogram\\types\\input_media_audio.py',
+   'PYMODULE'),
+  ('aiogram.types.input_media_animation',
+   'E:\\projects\\амосрм '
+   'обнова\\venv\\Lib\\site-packages\\aiogram\\types\\input_media_animation.py',
+   'PYMODULE'),
+  ('aiogram.types.input_media',
+   'E:\\projects\\амосрм '
+   'обнова\\venv\\Lib\\site-packages\\aiogram\\types\\input_media.py',
+   'PYMODULE'),
+  ('aiogram.types.input_location_message_content',
+   'E:\\projects\\амосрм '
+   'обнова\\venv\\Lib\\site-packages\\aiogram\\types\\input_location_message_content.py',
+   'PYMODULE'),
+  ('aiogram.types.input_invoice_message_content',
+   'E:\\projects\\амосрм '
+   'обнова\\venv\\Lib\\site-packages\\aiogram\\types\\input_invoice_message_content.py',
+   'PYMODULE'),
+  ('aiogram.types.input_file',
+   'E:\\projects\\амосрм '
+   'обнова\\venv\\Lib\\site-packages\\aiogram\\types\\input_file.py',
+   'PYMODULE'),
+  ('aiogram.types.input_contact_message_content',
+   'E:\\projects\\амосрм '
+   'обнова\\venv\\Lib\\site-packages\\aiogram\\types\\input_contact_message_content.py',
+   'PYMODULE'),
+  ('aiogram.types.inline_query_results_button',
+   'E:\\projects\\амосрм '
+   'обнова\\venv\\Lib\\site-packages\\aiogram\\types\\inline_query_results_button.py',
+   'PYMODULE'),
+  ('aiogram.types.inline_query_result_voice',
+   'E:\\projects\\амосрм '
+   'обнова\\venv\\Lib\\site-packages\\aiogram\\types\\inline_query_result_voice.py',
+   'PYMODULE'),
+  ('aiogram.types.inline_query_result_video',
+   'E:\\projects\\амосрм '
+   'обнова\\venv\\Lib\\site-packages\\aiogram\\types\\inline_query_result_video.py',
+   'PYMODULE'),
+  ('aiogram.types.inline_query_result_venue',
+   'E:\\projects\\амосрм '
+   'обнова\\venv\\Lib\\site-packages\\aiogram\\types\\inline_query_result_venue.py',
+   'PYMODULE'),
+  ('aiogram.types.inline_query_result_photo',
+   'E:\\projects\\амосрм '
+   'обнова\\venv\\Lib\\site-packages\\aiogram\\types\\inline_query_result_photo.py',
+   'PYMODULE'),
+  ('aiogram.types.inline_query_result_mpeg4_gif',
+   'E:\\projects\\амосрм '
+   'обнова\\venv\\Lib\\site-packages\\aiogram\\types\\inline_query_result_mpeg4_gif.py',
+   'PYMODULE'),
+  ('aiogram.types.inline_query_result_location',
+   'E:\\projects\\амосрм '
+   'обнова\\venv\\Lib\\site-packages\\aiogram\\types\\inline_query_result_location.py',
+   'PYMODULE'),
+  ('aiogram.types.inline_query_result_gif',
+   'E:\\projects\\амосрм '
+   'обнова\\venv\\Lib\\site-packages\\aiogram\\types\\inline_query_result_gif.py',
+   'PYMODULE'),
+  ('aiogram.types.inline_query_result_game',
+   'E:\\projects\\амосрм '
+   'обнова\\venv\\Lib\\site-packages\\aiogram\\types\\inline_query_result_game.py',
+   'PYMODULE'),
+  ('aiogram.types.inline_query_result_document',
+   'E:\\projects\\амосрм '
+   'обнова\\venv\\Lib\\site-packages\\aiogram\\types\\inline_query_result_document.py',
+   'PYMODULE'),
+  ('aiogram.types.inline_query_result_contact',
+   'E:\\projects\\амосрм '
+   'обнова\\venv\\Lib\\site-packages\\aiogram\\types\\inline_query_result_contact.py',
+   'PYMODULE'),
+  ('aiogram.types.inline_query_result_cached_voice',
+   'E:\\projects\\амосрм '
+   'обнова\\venv\\Lib\\site-packages\\aiogram\\types\\inline_query_result_cached_voice.py',
+   'PYMODULE'),
+  ('aiogram.types.inline_query_result_cached_video',
+   'E:\\projects\\амосрм '
+   'обнова\\venv\\Lib\\site-packages\\aiogram\\types\\inline_query_result_cached_video.py',
+   'PYMODULE'),
+  ('aiogram.types.inline_query_result_cached_sticker',
+   'E:\\projects\\амосрм '
+   'обнова\\venv\\Lib\\site-packages\\aiogram\\types\\inline_query_result_cached_sticker.py',
+   'PYMODULE'),
+  ('aiogram.types.inline_query_result_cached_photo',
+   'E:\\projects\\амосрм '
+   'обнова\\venv\\Lib\\site-packages\\aiogram\\types\\inline_query_result_cached_photo.py',
+   'PYMODULE'),
+  ('aiogram.types.inline_query_result_cached_mpeg4_gif',
+   'E:\\projects\\амосрм '
+   'обнова\\venv\\Lib\\site-packages\\aiogram\\types\\inline_query_result_cached_mpeg4_gif.py',
+   'PYMODULE'),
+  ('aiogram.types.inline_query_result_cached_gif',
+   'E:\\projects\\амосрм '
+   'обнова\\venv\\Lib\\site-packages\\aiogram\\types\\inline_query_result_cached_gif.py',
+   'PYMODULE'),
+  ('aiogram.types.inline_query_result_cached_document',
+   'E:\\projects\\амосрм '
+   'обнова\\venv\\Lib\\site-packages\\aiogram\\types\\inline_query_result_cached_document.py',
+   'PYMODULE'),
+  ('aiogram.types.inline_query_result_cached_audio',
+   'E:\\projects\\амосрм '
+   'обнова\\venv\\Lib\\site-packages\\aiogram\\types\\inline_query_result_cached_audio.py',
+   'PYMODULE'),
+  ('aiogram.types.inline_query_result_audio',
+   'E:\\projects\\амосрм '
+   'обнова\\venv\\Lib\\site-packages\\aiogram\\types\\inline_query_result_audio.py',
+   'PYMODULE'),
+  ('aiogram.types.inline_query_result_article',
+   'E:\\projects\\амосрм '
+   'обнова\\venv\\Lib\\site-packages\\aiogram\\types\\inline_query_result_article.py',
+   'PYMODULE'),
+  ('aiogram.types.inline_query_result',
+   'E:\\projects\\амосрм '
+   'обнова\\venv\\Lib\\site-packages\\aiogram\\types\\inline_query_result.py',
+   'PYMODULE'),
+  ('aiogram.types.inline_query',
+   'E:\\projects\\амосрм '
+   'обнова\\venv\\Lib\\site-packages\\aiogram\\types\\inline_query.py',
+   'PYMODULE'),
+  ('aiogram.types.inline_keyboard_markup',
+   'E:\\projects\\амосрм '
+   'обнова\\venv\\Lib\\site-packages\\aiogram\\types\\inline_keyboard_markup.py',
+   'PYMODULE'),
+  ('aiogram.types.inline_keyboard_button',
+   'E:\\projects\\амосрм '
+   'обнова\\venv\\Lib\\site-packages\\aiogram\\types\\inline_keyboard_button.py',
+   'PYMODULE'),
+  ('aiogram.types.inaccessible_message',
+   'E:\\projects\\амосрм '
+   'обнова\\venv\\Lib\\site-packages\\aiogram\\types\\inaccessible_message.py',
+   'PYMODULE'),
+  ('aiogram.types.giveaway_winners',
+   'E:\\projects\\амосрм '
+   'обнова\\venv\\Lib\\site-packages\\aiogram\\types\\giveaway_winners.py',
+   'PYMODULE'),
+  ('aiogram.types.giveaway_created',
+   'E:\\projects\\амосрм '
+   'обнова\\venv\\Lib\\site-packages\\aiogram\\types\\giveaway_created.py',
+   'PYMODULE'),
+  ('aiogram.types.giveaway_completed',
+   'E:\\projects\\амосрм '
+   'обнова\\venv\\Lib\\site-packages\\aiogram\\types\\giveaway_completed.py',
+   'PYMODULE'),
+  ('aiogram.types.giveaway',
+   'E:\\projects\\амосрм '
+   'обнова\\venv\\Lib\\site-packages\\aiogram\\types\\giveaway.py',
+   'PYMODULE'),
+  ('aiogram.types.general_forum_topic_unhidden',
+   'E:\\projects\\амосрм '
+   'обнова\\venv\\Lib\\site-packages\\aiogram\\types\\general_forum_topic_unhidden.py',
+   'PYMODULE'),
+  ('aiogram.types.general_forum_topic_hidden',
+   'E:\\projects\\амосрм '
+   'обнова\\venv\\Lib\\site-packages\\aiogram\\types\\general_forum_topic_hidden.py',
+   'PYMODULE'),
+  ('aiogram.types.game_high_score',
+   'E:\\projects\\амосрм '
+   'обнова\\venv\\Lib\\site-packages\\aiogram\\types\\game_high_score.py',
+   'PYMODULE'),
+  ('aiogram.types.game',
+   'E:\\projects\\амосрм '
+   'обнова\\venv\\Lib\\site-packages\\aiogram\\types\\game.py',
+   'PYMODULE'),
+  ('aiogram.types.forum_topic_reopened',
+   'E:\\projects\\амосрм '
+   'обнова\\venv\\Lib\\site-packages\\aiogram\\types\\forum_topic_reopened.py',
+   'PYMODULE'),
+  ('aiogram.types.forum_topic_edited',
+   'E:\\projects\\амосрм '
+   'обнова\\venv\\Lib\\site-packages\\aiogram\\types\\forum_topic_edited.py',
+   'PYMODULE'),
+  ('aiogram.types.forum_topic_created',
+   'E:\\projects\\амосрм '
+   'обнова\\venv\\Lib\\site-packages\\aiogram\\types\\forum_topic_created.py',
+   'PYMODULE'),
+  ('aiogram.types.forum_topic_closed',
+   'E:\\projects\\амосрм '
+   'обнова\\venv\\Lib\\site-packages\\aiogram\\types\\forum_topic_closed.py',
+   'PYMODULE'),
+  ('aiogram.types.forum_topic',
+   'E:\\projects\\амосрм '
+   'обнова\\venv\\Lib\\site-packages\\aiogram\\types\\forum_topic.py',
+   'PYMODULE'),
+  ('aiogram.types.force_reply',
+   'E:\\projects\\амосрм '
+   'обнова\\venv\\Lib\\site-packages\\aiogram\\types\\force_reply.py',
+   'PYMODULE'),
+  ('aiogram.types.file',
+   'E:\\projects\\амосрм '
+   'обнова\\venv\\Lib\\site-packages\\aiogram\\types\\file.py',
+   'PYMODULE'),
+  ('aiogram.types.external_reply_info',
+   'E:\\projects\\амосрм '
+   'обнова\\venv\\Lib\\site-packages\\aiogram\\types\\external_reply_info.py',
+   'PYMODULE'),
+  ('aiogram.types.error_event',
+   'E:\\projects\\амосрм '
+   'обнова\\venv\\Lib\\site-packages\\aiogram\\types\\error_event.py',
+   'PYMODULE'),
+  ('aiogram.types.encrypted_passport_element',
+   'E:\\projects\\амосрм '
+   'обнова\\venv\\Lib\\site-packages\\aiogram\\types\\encrypted_passport_element.py',
+   'PYMODULE'),
+  ('aiogram.types.encrypted_credentials',
+   'E:\\projects\\амосрм '
+   'обнова\\venv\\Lib\\site-packages\\aiogram\\types\\encrypted_credentials.py',
+   'PYMODULE'),
+  ('aiogram.types.downloadable',
+   'E:\\projects\\амосрм '
+   'обнова\\venv\\Lib\\site-packages\\aiogram\\types\\downloadable.py',
+   'PYMODULE'),
+  ('aiogram.types.document',
+   'E:\\projects\\амосрм '
+   'обнова\\venv\\Lib\\site-packages\\aiogram\\types\\document.py',
+   'PYMODULE'),
+  ('aiogram.types.dice',
+   'E:\\projects\\амосрм '
+   'обнова\\venv\\Lib\\site-packages\\aiogram\\types\\dice.py',
+   'PYMODULE'),
+  ('aiogram.types.custom',
+   'E:\\projects\\амосрм '
+   'обнова\\venv\\Lib\\site-packages\\aiogram\\types\\custom.py',
+   'PYMODULE'),
+  ('aiogram.types.contact',
+   'E:\\projects\\амосрм '
+   'обнова\\venv\\Lib\\site-packages\\aiogram\\types\\contact.py',
+   'PYMODULE'),
+  ('aiogram.types.chosen_inline_result',
+   'E:\\projects\\амосрм '
+   'обнова\\venv\\Lib\\site-packages\\aiogram\\types\\chosen_inline_result.py',
+   'PYMODULE'),
+  ('aiogram.types.chat_shared',
+   'E:\\projects\\амосрм '
+   'обнова\\venv\\Lib\\site-packages\\aiogram\\types\\chat_shared.py',
+   'PYMODULE'),
+  ('aiogram.types.chat_photo',
+   'E:\\projects\\амосрм '
+   'обнова\\venv\\Lib\\site-packages\\aiogram\\types\\chat_photo.py',
+   'PYMODULE'),
+  ('aiogram.types.chat_permissions',
+   'E:\\projects\\амосрм '
+   'обнова\\venv\\Lib\\site-packages\\aiogram\\types\\chat_permissions.py',
+   'PYMODULE'),
+  ('aiogram.types.chat_member_updated',
+   'E:\\projects\\амосрм '
+   'обнова\\venv\\Lib\\site-packages\\aiogram\\types\\chat_member_updated.py',
+   'PYMODULE'),
+  ('aiogram.types.chat_member_restricted',
+   'E:\\projects\\амосрм '
+   'обнова\\venv\\Lib\\site-packages\\aiogram\\types\\chat_member_restricted.py',
+   'PYMODULE'),
+  ('aiogram.types.chat_member_owner',
+   'E:\\projects\\амосрм '
+   'обнова\\venv\\Lib\\site-packages\\aiogram\\types\\chat_member_owner.py',
+   'PYMODULE'),
+  ('aiogram.types.chat_member_member',
+   'E:\\projects\\амосрм '
+   'обнова\\venv\\Lib\\site-packages\\aiogram\\types\\chat_member_member.py',
+   'PYMODULE'),
+  ('aiogram.types.chat_member_left',
+   'E:\\projects\\амосрм '
+   'обнова\\venv\\Lib\\site-packages\\aiogram\\types\\chat_member_left.py',
+   'PYMODULE'),
+  ('aiogram.types.chat_member_banned',
+   'E:\\projects\\амосрм '
+   'обнова\\venv\\Lib\\site-packages\\aiogram\\types\\chat_member_banned.py',
+   'PYMODULE'),
+  ('aiogram.types.chat_member_administrator',
+   'E:\\projects\\амосрм '
+   'обнова\\venv\\Lib\\site-packages\\aiogram\\types\\chat_member_administrator.py',
+   'PYMODULE'),
+  ('aiogram.types.chat_member',
+   'E:\\projects\\амосрм '
+   'обнова\\venv\\Lib\\site-packages\\aiogram\\types\\chat_member.py',
+   'PYMODULE'),
+  ('aiogram.types.chat_location',
+   'E:\\projects\\амосрм '
+   'обнова\\venv\\Lib\\site-packages\\aiogram\\types\\chat_location.py',
+   'PYMODULE'),
+  ('aiogram.types.chat_join_request',
+   'E:\\projects\\амосрм '
+   'обнова\\venv\\Lib\\site-packages\\aiogram\\types\\chat_join_request.py',
+   'PYMODULE'),
+  ('aiogram.types.chat_invite_link',
+   'E:\\projects\\амосрм '
+   'обнова\\venv\\Lib\\site-packages\\aiogram\\types\\chat_invite_link.py',
+   'PYMODULE'),
+  ('aiogram.types.chat_boost_updated',
+   'E:\\projects\\амосрм '
+   'обнова\\venv\\Lib\\site-packages\\aiogram\\types\\chat_boost_updated.py',
+   'PYMODULE'),
+  ('aiogram.types.chat_boost_source_premium',
+   'E:\\projects\\амосрм '
+   'обнова\\venv\\Lib\\site-packages\\aiogram\\types\\chat_boost_source_premium.py',
+   'PYMODULE'),
+  ('aiogram.types.chat_boost_source_giveaway',
+   'E:\\projects\\амосрм '
+   'обнова\\venv\\Lib\\site-packages\\aiogram\\types\\chat_boost_source_giveaway.py',
+   'PYMODULE'),
+  ('aiogram.types.chat_boost_source_gift_code',
+   'E:\\projects\\амосрм '
+   'обнова\\venv\\Lib\\site-packages\\aiogram\\types\\chat_boost_source_gift_code.py',
+   'PYMODULE'),
+  ('aiogram.types.chat_boost_source',
+   'E:\\projects\\амосрм '
+   'обнова\\venv\\Lib\\site-packages\\aiogram\\types\\chat_boost_source.py',
+   'PYMODULE'),
+  ('aiogram.types.chat_boost_removed',
+   'E:\\projects\\амосрм '
+   'обнова\\venv\\Lib\\site-packages\\aiogram\\types\\chat_boost_removed.py',
+   'PYMODULE'),
+  ('aiogram.types.chat_boost_added',
+   'E:\\projects\\амосрм '
+   'обнова\\venv\\Lib\\site-packages\\aiogram\\types\\chat_boost_added.py',
+   'PYMODULE'),
+  ('aiogram.types.chat_boost',
+   'E:\\projects\\амосрм '
+   'обнова\\venv\\Lib\\site-packages\\aiogram\\types\\chat_boost.py',
+   'PYMODULE'),
+  ('aiogram.types.chat_administrator_rights',
+   'E:\\projects\\амосрм '
+   'обнова\\venv\\Lib\\site-packages\\aiogram\\types\\chat_administrator_rights.py',
+   'PYMODULE'),
+  ('aiogram.types.chat',
+   'E:\\projects\\амосрм '
+   'обнова\\venv\\Lib\\site-packages\\aiogram\\types\\chat.py',
+   'PYMODULE'),
+  ('aiogram.types.callback_query',
+   'E:\\projects\\амосрм '
+   'обнова\\venv\\Lib\\site-packages\\aiogram\\types\\callback_query.py',
+   'PYMODULE'),
+  ('aiogram.types.callback_game',
+   'E:\\projects\\амосрм '
+   'обнова\\venv\\Lib\\site-packages\\aiogram\\types\\callback_game.py',
+   'PYMODULE'),
+  ('aiogram.types.bot_short_description',
+   'E:\\projects\\амосрм '
+   'обнова\\venv\\Lib\\site-packages\\aiogram\\types\\bot_short_description.py',
+   'PYMODULE'),
+  ('aiogram.types.bot_name',
+   'E:\\projects\\амосрм '
+   'обнова\\venv\\Lib\\site-packages\\aiogram\\types\\bot_name.py',
+   'PYMODULE'),
+  ('aiogram.types.bot_description',
+   'E:\\projects\\амосрм '
+   'обнова\\venv\\Lib\\site-packages\\aiogram\\types\\bot_description.py',
+   'PYMODULE'),
+  ('aiogram.types.bot_command_scope_default',
+   'E:\\projects\\амосрм '
+   'обнова\\venv\\Lib\\site-packages\\aiogram\\types\\bot_command_scope_default.py',
+   'PYMODULE'),
+  ('aiogram.types.bot_command_scope_chat_member',
+   'E:\\projects\\амосрм '
+   'обнова\\venv\\Lib\\site-packages\\aiogram\\types\\bot_command_scope_chat_member.py',
+   'PYMODULE'),
+  ('aiogram.types.bot_command_scope_chat_administrators',
+   'E:\\projects\\амосрм '
+   'обнова\\venv\\Lib\\site-packages\\aiogram\\types\\bot_command_scope_chat_administrators.py',
+   'PYMODULE'),
+  ('aiogram.types.bot_command_scope_chat',
+   'E:\\projects\\амосрм '
+   'обнова\\venv\\Lib\\site-packages\\aiogram\\types\\bot_command_scope_chat.py',
+   'PYMODULE'),
+  ('aiogram.types.bot_command_scope_all_private_chats',
+   'E:\\projects\\амосрм '
+   'обнова\\venv\\Lib\\site-packages\\aiogram\\types\\bot_command_scope_all_private_chats.py',
+   'PYMODULE'),
+  ('aiogram.types.bot_command_scope_all_group_chats',
+   'E:\\projects\\амосрм '
+   'обнова\\venv\\Lib\\site-packages\\aiogram\\types\\bot_command_scope_all_group_chats.py',
+   'PYMODULE'),
+  ('aiogram.types.bot_command_scope_all_chat_administrators',
+   'E:\\projects\\амосрм '
+   'обнова\\venv\\Lib\\site-packages\\aiogram\\types\\bot_command_scope_all_chat_administrators.py',
+   'PYMODULE'),
+  ('aiogram.types.bot_command_scope',
+   'E:\\projects\\амосрм '
+   'обнова\\venv\\Lib\\site-packages\\aiogram\\types\\bot_command_scope.py',
+   'PYMODULE'),
+  ('aiogram.types.bot_command',
+   'E:\\projects\\амосрм '
+   'обнова\\venv\\Lib\\site-packages\\aiogram\\types\\bot_command.py',
+   'PYMODULE'),
+  ('aiogram.types.base',
+   'E:\\projects\\амосрм '
+   'обнова\\venv\\Lib\\site-packages\\aiogram\\types\\base.py',
+   'PYMODULE'),
+  ('unittest.mock', 'C:\\python\\Lib\\unittest\\mock.py', 'PYMODULE'),
+  ('unittest', 'C:\\python\\Lib\\unittest\\__init__.py', 'PYMODULE'),
+  ('unittest.async_case',
+   'C:\\python\\Lib\\unittest\\async_case.py',
+   'PYMODULE'),
+  ('unittest.signals', 'C:\\python\\Lib\\unittest\\signals.py', 'PYMODULE'),
+  ('unittest.main', 'C:\\python\\Lib\\unittest\\main.py', 'PYMODULE'),
+  ('unittest.runner', 'C:\\python\\Lib\\unittest\\runner.py', 'PYMODULE'),
+  ('unittest.loader', 'C:\\python\\Lib\\unittest\\loader.py', 'PYMODULE'),
+  ('unittest.suite', 'C:\\python\\Lib\\unittest\\suite.py', 'PYMODULE'),
+  ('unittest.case', 'C:\\python\\Lib\\unittest\\case.py', 'PYMODULE'),
+  ('unittest._log', 'C:\\python\\Lib\\unittest\\_log.py', 'PYMODULE'),
+  ('difflib', 'C:\\python\\Lib\\difflib.py', 'PYMODULE'),
+  ('unittest.result', 'C:\\python\\Lib\\unittest\\result.py', 'PYMODULE'),
+  ('unittest.util', 'C:\\python\\Lib\\unittest\\util.py', 'PYMODULE'),
+  ('aiogram.types.audio',
+   'E:\\projects\\амосрм '
+   'обнова\\venv\\Lib\\site-packages\\aiogram\\types\\audio.py',
+   'PYMODULE'),
+  ('aiogram.types.animation',
+   'E:\\projects\\амосрм '
+   'обнова\\venv\\Lib\\site-packages\\aiogram\\types\\animation.py',
+   'PYMODULE'),
+  ('__future__', 'C:\\python\\Lib\\__future__.py', 'PYMODULE'),
+  ('aiogram.enums',
+   'E:\\projects\\амосрм '
+   'обнова\\venv\\Lib\\site-packages\\aiogram\\enums\\__init__.py',
+   'PYMODULE'),
+  ('aiogram.enums.update_type',
+   'E:\\projects\\амосрм '
+   'обнова\\venv\\Lib\\site-packages\\aiogram\\enums\\update_type.py',
+   'PYMODULE'),
+  ('aiogram.enums.topic_icon_color',
+   'E:\\projects\\амосрм '
+   'обнова\\venv\\Lib\\site-packages\\aiogram\\enums\\topic_icon_color.py',
+   'PYMODULE'),
+  ('aiogram.enums.sticker_type',
+   'E:\\projects\\амосрм '
+   'обнова\\venv\\Lib\\site-packages\\aiogram\\enums\\sticker_type.py',
+   'PYMODULE'),
+  ('aiogram.enums.sticker_format',
+   'E:\\projects\\амосрм '
+   'обнова\\venv\\Lib\\site-packages\\aiogram\\enums\\sticker_format.py',
+   'PYMODULE'),
+  ('aiogram.enums.reaction_type_type',
+   'E:\\projects\\амосрм '
+   'обнова\\venv\\Lib\\site-packages\\aiogram\\enums\\reaction_type_type.py',
+   'PYMODULE'),
+  ('aiogram.enums.poll_type',
+   'E:\\projects\\амосрм '
+   'обнова\\venv\\Lib\\site-packages\\aiogram\\enums\\poll_type.py',
+   'PYMODULE'),
+  ('aiogram.enums.passport_element_error_type',
+   'E:\\projects\\амосрм '
+   'обнова\\venv\\Lib\\site-packages\\aiogram\\enums\\passport_element_error_type.py',
+   'PYMODULE'),
+  ('aiogram.enums.parse_mode',
+   'E:\\projects\\амосрм '
+   'обнова\\venv\\Lib\\site-packages\\aiogram\\enums\\parse_mode.py',
+   'PYMODULE'),
+  ('aiogram.enums.message_origin_type',
+   'E:\\projects\\амосрм '
+   'обнова\\venv\\Lib\\site-packages\\aiogram\\enums\\message_origin_type.py',
+   'PYMODULE'),
+  ('aiogram.enums.message_entity_type',
+   'E:\\projects\\амосрм '
+   'обнова\\venv\\Lib\\site-packages\\aiogram\\enums\\message_entity_type.py',
+   'PYMODULE'),
+  ('aiogram.enums.menu_button_type',
+   'E:\\projects\\амосрм '
+   'обнова\\venv\\Lib\\site-packages\\aiogram\\enums\\menu_button_type.py',
+   'PYMODULE'),
+  ('aiogram.enums.mask_position_point',
+   'E:\\projects\\амосрм '
+   'обнова\\venv\\Lib\\site-packages\\aiogram\\enums\\mask_position_point.py',
+   'PYMODULE'),
+  ('aiogram.enums.keyboard_button_poll_type_type',
+   'E:\\projects\\амосрм '
+   'обнова\\venv\\Lib\\site-packages\\aiogram\\enums\\keyboard_button_poll_type_type.py',
+   'PYMODULE'),
+  ('aiogram.enums.input_media_type',
+   'E:\\projects\\амосрм '
+   'обнова\\venv\\Lib\\site-packages\\aiogram\\enums\\input_media_type.py',
+   'PYMODULE'),
+  ('aiogram.enums.inline_query_result_type',
+   'E:\\projects\\амосрм '
+   'обнова\\venv\\Lib\\site-packages\\aiogram\\enums\\inline_query_result_type.py',
+   'PYMODULE'),
+  ('aiogram.enums.encrypted_passport_element',
+   'E:\\projects\\амосрм '
+   'обнова\\venv\\Lib\\site-packages\\aiogram\\enums\\encrypted_passport_element.py',
+   'PYMODULE'),
+  ('aiogram.enums.dice_emoji',
+   'E:\\projects\\амосрм '
+   'обнова\\venv\\Lib\\site-packages\\aiogram\\enums\\dice_emoji.py',
+   'PYMODULE'),
+  ('aiogram.enums.currency',
+   'E:\\projects\\амосрм '
+   'обнова\\venv\\Lib\\site-packages\\aiogram\\enums\\currency.py',
+   'PYMODULE'),
+  ('aiogram.enums.content_type',
+   'E:\\projects\\амосрм '
+   'обнова\\venv\\Lib\\site-packages\\aiogram\\enums\\content_type.py',
+   'PYMODULE'),
+  ('aiogram.enums.chat_type',
+   'E:\\projects\\амосрм '
+   'обнова\\venv\\Lib\\site-packages\\aiogram\\enums\\chat_type.py',
+   'PYMODULE'),
+  ('aiogram.enums.chat_member_status',
+   'E:\\projects\\амосрм '
+   'обнова\\venv\\Lib\\site-packages\\aiogram\\enums\\chat_member_status.py',
+   'PYMODULE'),
+  ('aiogram.enums.chat_boost_source_type',
+   'E:\\projects\\амосрм '
+   'обнова\\venv\\Lib\\site-packages\\aiogram\\enums\\chat_boost_source_type.py',
+   'PYMODULE'),
+  ('aiogram.enums.chat_action',
+   'E:\\projects\\амосрм '
+   'обнова\\venv\\Lib\\site-packages\\aiogram\\enums\\chat_action.py',
+   'PYMODULE'),
+  ('aiogram.enums.bot_command_scope_type',
+   'E:\\projects\\амосрм '
+   'обнова\\venv\\Lib\\site-packages\\aiogram\\enums\\bot_command_scope_type.py',
+   'PYMODULE'),
+  ('aiogram',
+   'E:\\projects\\амосрм '
+   'обнова\\venv\\Lib\\site-packages\\aiogram\\__init__.py',
+   'PYMODULE'),
+  ('aiogram.utils.magic_filter',
+   'E:\\projects\\амосрм '
+   'обнова\\venv\\Lib\\site-packages\\aiogram\\utils\\magic_filter.py',
+   'PYMODULE'),
+  ('magic_filter.operations',
+   'E:\\projects\\амосрм '
+   'обнова\\venv\\Lib\\site-packages\\magic_filter\\operations\\__init__.py',
+   'PYMODULE'),
+  ('magic_filter.operations.selector',
+   'E:\\projects\\амосрм '
+   'обнова\\venv\\Lib\\site-packages\\magic_filter\\operations\\selector.py',
+   'PYMODULE'),
+  ('magic_filter.exceptions',
+   'E:\\projects\\амосрм '
+   'обнова\\venv\\Lib\\site-packages\\magic_filter\\exceptions.py',
+   'PYMODULE'),
+  ('magic_filter.operations.getitem',
+   'E:\\projects\\амосрм '
+   'обнова\\venv\\Lib\\site-packages\\magic_filter\\operations\\getitem.py',
+   'PYMODULE'),
+  ('magic_filter.operations.getattr',
+   'E:\\projects\\амосрм '
+   'обнова\\venv\\Lib\\site-packages\\magic_filter\\operations\\getattr.py',
+   'PYMODULE'),
+  ('magic_filter.operations.function',
+   'E:\\projects\\амосрм '
+   'обнова\\venv\\Lib\\site-packages\\magic_filter\\operations\\function.py',
+   'PYMODULE'),
+  ('magic_filter.helper',
+   'E:\\projects\\амосрм '
+   'обнова\\venv\\Lib\\site-packages\\magic_filter\\helper.py',
+   'PYMODULE'),
+  ('magic_filter.operations.extract',
+   'E:\\projects\\амосрм '
+   'обнова\\venv\\Lib\\site-packages\\magic_filter\\operations\\extract.py',
+   'PYMODULE'),
+  ('magic_filter.magic',
+   'E:\\projects\\амосрм '
+   'обнова\\venv\\Lib\\site-packages\\magic_filter\\magic.py',
+   'PYMODULE'),
+  ('magic_filter.util',
+   'E:\\projects\\амосрм '
+   'обнова\\venv\\Lib\\site-packages\\magic_filter\\util.py',
+   'PYMODULE'),
+  ('magic_filter.operations.comparator',
+   'E:\\projects\\амосрм '
+   'обнова\\venv\\Lib\\site-packages\\magic_filter\\operations\\comparator.py',
+   'PYMODULE'),
+  ('magic_filter.operations.combination',
+   'E:\\projects\\амосрм '
+   'обнова\\venv\\Lib\\site-packages\\magic_filter\\operations\\combination.py',
+   'PYMODULE'),
+  ('magic_filter.operations.cast',
+   'E:\\projects\\амосрм '
+   'обнова\\venv\\Lib\\site-packages\\magic_filter\\operations\\cast.py',
+   'PYMODULE'),
+  ('magic_filter.operations.call',
+   'E:\\projects\\амосрм '
+   'обнова\\venv\\Lib\\site-packages\\magic_filter\\operations\\call.py',
+   'PYMODULE'),
+  ('magic_filter.operations.base',
+   'E:\\projects\\амосрм '
+   'обнова\\venv\\Lib\\site-packages\\magic_filter\\operations\\base.py',
+   'PYMODULE'),
+  ('magic_filter',
+   'E:\\projects\\амосрм '
+   'обнова\\venv\\Lib\\site-packages\\magic_filter\\__init__.py',
+   'PYMODULE'),
+  ('magic_filter.attrdict',
+   'E:\\projects\\амосрм '
+   'обнова\\venv\\Lib\\site-packages\\magic_filter\\attrdict.py',
+   'PYMODULE'),
+  ('aiogram.dispatcher.router',
+   'E:\\projects\\амосрм '
+   'обнова\\venv\\Lib\\site-packages\\aiogram\\dispatcher\\router.py',
+   'PYMODULE'),
+  ('aiogram.dispatcher',
+   'E:\\projects\\амосрм '
+   'обнова\\venv\\Lib\\site-packages\\aiogram\\dispatcher\\__init__.py',
+   'PYMODULE'),
+  ('aiogram.dispatcher.event.telegram',
+   'E:\\projects\\амосрм '
+   'обнова\\venv\\Lib\\site-packages\\aiogram\\dispatcher\\event\\telegram.py',
+   'PYMODULE'),
+  ('aiogram.dispatcher.event',
+   'E:\\projects\\амосрм '
+   'обнова\\venv\\Lib\\site-packages\\aiogram\\dispatcher\\event\\__init__.py',
+   'PYMODULE'),
+  ('aiogram.dispatcher.event.handler',
+   'E:\\projects\\амосрм '
+   'обнова\\venv\\Lib\\site-packages\\aiogram\\dispatcher\\event\\handler.py',
+   'PYMODULE'),
+  ('aiogram.utils.warnings',
+   'E:\\projects\\амосрм '
+   'обнова\\venv\\Lib\\site-packages\\aiogram\\utils\\warnings.py',
+   'PYMODULE'),
+  ('aiogram.handlers',
+   'E:\\projects\\амосрм '
+   'обнова\\venv\\Lib\\site-packages\\aiogram\\handlers\\__init__.py',
+   'PYMODULE'),
+  ('aiogram.handlers.shipping_query',
+   'E:\\projects\\амосрм '
+   'обнова\\venv\\Lib\\site-packages\\aiogram\\handlers\\shipping_query.py',
+   'PYMODULE'),
+  ('aiogram.handlers.pre_checkout_query',
+   'E:\\projects\\амосрм '
+   'обнова\\venv\\Lib\\site-packages\\aiogram\\handlers\\pre_checkout_query.py',
+   'PYMODULE'),
+  ('aiogram.handlers.poll',
+   'E:\\projects\\амосрм '
+   'обнова\\venv\\Lib\\site-packages\\aiogram\\handlers\\poll.py',
+   'PYMODULE'),
+  ('aiogram.handlers.message',
+   'E:\\projects\\амосрм '
+   'обнова\\venv\\Lib\\site-packages\\aiogram\\handlers\\message.py',
+   'PYMODULE'),
+  ('aiogram.filters',
+   'E:\\projects\\амосрм '
+   'обнова\\venv\\Lib\\site-packages\\aiogram\\filters\\__init__.py',
+   'PYMODULE'),
+  ('aiogram.filters.state',
+   'E:\\projects\\амосрм '
+   'обнова\\venv\\Lib\\site-packages\\aiogram\\filters\\state.py',
+   'PYMODULE'),
+  ('aiogram.fsm.state',
+   'E:\\projects\\амосрм '
+   'обнова\\venv\\Lib\\site-packages\\aiogram\\fsm\\state.py',
+   'PYMODULE'),
+  ('aiogram.fsm',
+   'E:\\projects\\амосрм '
+   'обнова\\venv\\Lib\\site-packages\\aiogram\\fsm\\__init__.py',
+   'PYMODULE'),
+  ('aiogram.filters.magic_data',
+   'E:\\projects\\амосрм '
+   'обнова\\venv\\Lib\\site-packages\\aiogram\\filters\\magic_data.py',
+   'PYMODULE'),
+  ('aiogram.filters.logic',
+   'E:\\projects\\амосрм '
+   'обнова\\venv\\Lib\\site-packages\\aiogram\\filters\\logic.py',
+   'PYMODULE'),
+  ('aiogram.filters.exception',
+   'E:\\projects\\амосрм '
+   'обнова\\venv\\Lib\\site-packages\\aiogram\\filters\\exception.py',
+   'PYMODULE'),
+  ('aiogram.filters.command',
+   'E:\\projects\\амосрм '
+   'обнова\\venv\\Lib\\site-packages\\aiogram\\filters\\command.py',
+   'PYMODULE'),
+  ('aiogram.utils.deep_linking',
+   'E:\\projects\\амосрм '
+   'обнова\\venv\\Lib\\site-packages\\aiogram\\utils\\deep_linking.py',
+   'PYMODULE'),
+  ('aiogram.utils.payload',
+   'E:\\projects\\амосрм '
+   'обнова\\venv\\Lib\\site-packages\\aiogram\\utils\\payload.py',
+   'PYMODULE'),
+  ('aiogram.filters.chat_member_updated',
+   'E:\\projects\\амосрм '
+   'обнова\\venv\\Lib\\site-packages\\aiogram\\filters\\chat_member_updated.py',
+   'PYMODULE'),
+  ('aiogram.handlers.inline_query',
+   'E:\\projects\\амосрм '
+   'обнова\\venv\\Lib\\site-packages\\aiogram\\handlers\\inline_query.py',
+   'PYMODULE'),
+  ('aiogram.handlers.error',
+   'E:\\projects\\амосрм '
+   'обнова\\venv\\Lib\\site-packages\\aiogram\\handlers\\error.py',
+   'PYMODULE'),
+  ('aiogram.handlers.chosen_inline_result',
+   'E:\\projects\\амосрм '
+   'обнова\\venv\\Lib\\site-packages\\aiogram\\handlers\\chosen_inline_result.py',
+   'PYMODULE'),
+  ('aiogram.handlers.chat_member',
+   'E:\\projects\\амосрм '
+   'обнова\\venv\\Lib\\site-packages\\aiogram\\handlers\\chat_member.py',
+   'PYMODULE'),
+  ('aiogram.handlers.callback_query',
+   'E:\\projects\\амосрм '
+   'обнова\\venv\\Lib\\site-packages\\aiogram\\handlers\\callback_query.py',
+   'PYMODULE'),
+  ('aiogram.handlers.base',
+   'E:\\projects\\амосрм '
+   'обнова\\venv\\Lib\\site-packages\\aiogram\\handlers\\base.py',
+   'PYMODULE'),
+  ('aiogram.filters.base',
+   'E:\\projects\\амосрм '
+   'обнова\\venv\\Lib\\site-packages\\aiogram\\filters\\base.py',
+   'PYMODULE'),
+  ('aiogram.dispatcher.middlewares.manager',
+   'E:\\projects\\амосрм '
+   'обнова\\venv\\Lib\\site-packages\\aiogram\\dispatcher\\middlewares\\manager.py',
+   'PYMODULE'),
+  ('aiogram.dispatcher.middlewares',
+   'E:\\projects\\амосрм '
+   'обнова\\venv\\Lib\\site-packages\\aiogram\\dispatcher\\middlewares\\__init__.py',
+   'PYMODULE'),
+  ('aiogram.dispatcher.event.event',
+   'E:\\projects\\амосрм '
+   'обнова\\venv\\Lib\\site-packages\\aiogram\\dispatcher\\event\\event.py',
+   'PYMODULE'),
+  ('aiogram.dispatcher.event.bases',
+   'E:\\projects\\амосрм '
+   'обнова\\venv\\Lib\\site-packages\\aiogram\\dispatcher\\event\\bases.py',
+   'PYMODULE'),
+  ('aiogram.dispatcher.middlewares.base',
+   'E:\\projects\\амосрм '
+   'обнова\\venv\\Lib\\site-packages\\aiogram\\dispatcher\\middlewares\\base.py',
+   'PYMODULE'),
+  ('aiogram.dispatcher.dispatcher',
+   'E:\\projects\\амосрм '
+   'обнова\\venv\\Lib\\site-packages\\aiogram\\dispatcher\\dispatcher.py',
+   'PYMODULE'),
+  ('aiogram.dispatcher.middlewares.user_context',
+   'E:\\projects\\амосрм '
+   'обнова\\venv\\Lib\\site-packages\\aiogram\\dispatcher\\middlewares\\user_context.py',
+   'PYMODULE'),
+  ('aiogram.dispatcher.middlewares.error',
+   'E:\\projects\\амосрм '
+   'обнова\\venv\\Lib\\site-packages\\aiogram\\dispatcher\\middlewares\\error.py',
+   'PYMODULE'),
+  ('aiogram.utils.backoff',
+   'E:\\projects\\амосрм '
+   'обнова\\venv\\Lib\\site-packages\\aiogram\\utils\\backoff.py',
+   'PYMODULE'),
+  ('aiogram.fsm.strategy',
+   'E:\\projects\\амосрм '
+   'обнова\\venv\\Lib\\site-packages\\aiogram\\fsm\\strategy.py',
+   'PYMODULE'),
+  ('aiogram.fsm.storage.memory',
+   'E:\\projects\\амосрм '
+   'обнова\\venv\\Lib\\site-packages\\aiogram\\fsm\\storage\\memory.py',
+   'PYMODULE'),
+  ('aiogram.fsm.storage',
+   'E:\\projects\\амосрм '
+   'обнова\\venv\\Lib\\site-packages\\aiogram\\fsm\\storage\\__init__.py',
+   'PYMODULE'),
+  ('aiogram.fsm.storage.base',
+   'E:\\projects\\амосрм '
+   'обнова\\venv\\Lib\\site-packages\\aiogram\\fsm\\storage\\base.py',
+   'PYMODULE'),
+  ('aiogram.fsm.middleware',
+   'E:\\projects\\амосрм '
+   'обнова\\venv\\Lib\\site-packages\\aiogram\\fsm\\middleware.py',
+   'PYMODULE'),
+  ('aiogram.fsm.context',
+   'E:\\projects\\амосрм '
+   'обнова\\venv\\Lib\\site-packages\\aiogram\\fsm\\context.py',
+   'PYMODULE'),
+  ('aiogram.loggers',
+   'E:\\projects\\амосрм обнова\\venv\\Lib\\site-packages\\aiogram\\loggers.py',
+   'PYMODULE'),
+  ('aiogram.dispatcher.flags',
+   'E:\\projects\\амосрм '
+   'обнова\\venv\\Lib\\site-packages\\aiogram\\dispatcher\\flags.py',
+   'PYMODULE'),
+  ('amocrm.v2.tokens',
+   'E:\\projects\\амосрм '
+   'обнова\\venv\\Lib\\site-packages\\amocrm\\v2\\tokens.py',
+   'PYMODULE'),
+  ('amocrm.v2.exceptions',
+   'E:\\projects\\амосрм '
+   'обнова\\venv\\Lib\\site-packages\\amocrm\\v2\\exceptions.py',
+   'PYMODULE'),
+  ('requests',
+   'E:\\projects\\амосрм '
+   'обнова\\venv\\Lib\\site-packages\\requests\\__init__.py',
+   'PYMODULE'),
+  ('requests.status_codes',
+   'E:\\projects\\амосрм '
+   'обнова\\venv\\Lib\\site-packages\\requests\\status_codes.py',
+   'PYMODULE'),
+  ('requests.structures',
+   'E:\\projects\\амосрм '
+   'обнова\\venv\\Lib\\site-packages\\requests\\structures.py',
+   'PYMODULE'),
+  ('requests.compat',
+   'E:\\projects\\амосрм обнова\\venv\\Lib\\site-packages\\requests\\compat.py',
+   'PYMODULE'),
+  ('requests.models',
+   'E:\\projects\\амосрм обнова\\venv\\Lib\\site-packages\\requests\\models.py',
+   'PYMODULE'),
+  ('requests.hooks',
+   'E:\\projects\\амосрм обнова\\venv\\Lib\\site-packages\\requests\\hooks.py',
+   'PYMODULE'),
+  ('requests.cookies',
+   'E:\\projects\\амосрм '
+   'обнова\\venv\\Lib\\site-packages\\requests\\cookies.py',
+   'PYMODULE'),
+  ('requests.auth',
+   'E:\\projects\\амосрм обнова\\venv\\Lib\\site-packages\\requests\\auth.py',
+   'PYMODULE'),
+  ('requests._internal_utils',
+   'E:\\projects\\амосрм '
+   'обнова\\venv\\Lib\\site-packages\\requests\\_internal_utils.py',
+   'PYMODULE'),
+  ('urllib3.util',
+   'E:\\projects\\амосрм '
+   'обнова\\venv\\Lib\\site-packages\\urllib3\\util\\__init__.py',
+   'PYMODULE'),
+  ('urllib3.util.wait',
+   'E:\\projects\\амосрм '
+   'обнова\\venv\\Lib\\site-packages\\urllib3\\util\\wait.py',
+   'PYMODULE'),
+  ('urllib3.util.url',
+   'E:\\projects\\амосрм '
+   'обнова\\venv\\Lib\\site-packages\\urllib3\\util\\url.py',
+   'PYMODULE'),
+  ('urllib3.util.util',
+   'E:\\projects\\амосрм '
+   'обнова\\venv\\Lib\\site-packages\\urllib3\\util\\util.py',
+   'PYMODULE'),
+  ('urllib3.util.timeout',
+   'E:\\projects\\амосрм '
+   'обнова\\venv\\Lib\\site-packages\\urllib3\\util\\timeout.py',
+   'PYMODULE'),
+  ('urllib3.util.ssl_',
+   'E:\\projects\\амосрм '
+   'обнова\\venv\\Lib\\site-packages\\urllib3\\util\\ssl_.py',
+   'PYMODULE'),
+  ('urllib3.util.ssltransport',
+   'E:\\projects\\амосрм '
+   'обнова\\venv\\Lib\\site-packages\\urllib3\\util\\ssltransport.py',
+   'PYMODULE'),
+  ('urllib3.util.retry',
+   'E:\\projects\\амосрм '
+   'обнова\\venv\\Lib\\site-packages\\urllib3\\util\\retry.py',
+   'PYMODULE'),
+  ('urllib3.response',
+   'E:\\projects\\амосрм '
+   'обнова\\venv\\Lib\\site-packages\\urllib3\\response.py',
+   'PYMODULE'),
+  ('urllib3.connection',
+   'E:\\projects\\амосрм '
+   'обнова\\venv\\Lib\\site-packages\\urllib3\\connection.py',
+   'PYMODULE'),
+  ('urllib3.util.ssl_match_hostname',
+   'E:\\projects\\амосрм '
+   'обнова\\venv\\Lib\\site-packages\\urllib3\\util\\ssl_match_hostname.py',
+   'PYMODULE'),
+  ('urllib3._version',
+   'E:\\projects\\амосрм '
+   'обнова\\venv\\Lib\\site-packages\\urllib3\\_version.py',
+   'PYMODULE'),
+  ('urllib3._collections',
+   'E:\\projects\\амосрм '
+   'обнова\\venv\\Lib\\site-packages\\urllib3\\_collections.py',
+   'PYMODULE'),
+  ('urllib3._base_connection',
+   'E:\\projects\\амосрм '
+   'обнова\\venv\\Lib\\site-packages\\urllib3\\_base_connection.py',
+   'PYMODULE'),
+  ('urllib3.connectionpool',
+   'E:\\projects\\амосрм '
+   'обнова\\venv\\Lib\\site-packages\\urllib3\\connectionpool.py',
+   'PYMODULE'),
+  ('urllib3.util.proxy',
+   'E:\\projects\\амосрм '
+   'обнова\\venv\\Lib\\site-packages\\urllib3\\util\\proxy.py',
+   'PYMODULE'),
+  ('urllib3._request_methods',
+   'E:\\projects\\амосрм '
+   'обнова\\venv\\Lib\\site-packages\\urllib3\\_request_methods.py',
+   'PYMODULE'),
+  ('urllib3.util.response',
+   'E:\\projects\\амосрм '
+   'обнова\\venv\\Lib\\site-packages\\urllib3\\util\\response.py',
+   'PYMODULE'),
+  ('urllib3.util.request',
+   'E:\\projects\\амосрм '
+   'обнова\\venv\\Lib\\site-packages\\urllib3\\util\\request.py',
+   'PYMODULE'),
+  ('urllib3.util.connection',
+   'E:\\projects\\амосрм '
+   'обнова\\venv\\Lib\\site-packages\\urllib3\\util\\connection.py',
+   'PYMODULE'),
+  ('urllib3.filepost',
+   'E:\\projects\\амосрм '
+   'обнова\\venv\\Lib\\site-packages\\urllib3\\filepost.py',
+   'PYMODULE'),
+  ('urllib3.fields',
+   'E:\\projects\\амосрм обнова\\venv\\Lib\\site-packages\\urllib3\\fields.py',
+   'PYMODULE'),
+  ('requests.api',
+   'E:\\projects\\амосрм обнова\\venv\\Lib\\site-packages\\requests\\api.py',
+   'PYMODULE'),
+  ('requests.sessions',
+   'E:\\projects\\амосрм '
+   'обнова\\venv\\Lib\\site-packages\\requests\\sessions.py',
+   'PYMODULE'),
+  ('requests.adapters',
+   'E:\\projects\\амосрм '
+   'обнова\\venv\\Lib\\site-packages\\requests\\adapters.py',
+   'PYMODULE'),
+  ('urllib3.contrib.socks',
+   'E:\\projects\\амосрм '
+   'обнова\\venv\\Lib\\site-packages\\urllib3\\contrib\\socks.py',
+   'PYMODULE'),
+  ('urllib3.poolmanager',
+   'E:\\projects\\амосрм '
+   'обнова\\venv\\Lib\\site-packages\\urllib3\\poolmanager.py',
+   'PYMODULE'),
+  ('requests.__version__',
+   'E:\\projects\\амосрм '
+   'обнова\\venv\\Lib\\site-packages\\requests\\__version__.py',
+   'PYMODULE'),
+  ('requests.utils',
+   'E:\\projects\\амосрм обнова\\venv\\Lib\\site-packages\\requests\\utils.py',
+   'PYMODULE'),
+  ('requests.certs',
+   'E:\\projects\\амосрм обнова\\venv\\Lib\\site-packages\\requests\\certs.py',
+   'PYMODULE'),
+  ('requests.packages',
+   'E:\\projects\\амосрм '
+   'обнова\\venv\\Lib\\site-packages\\requests\\packages.py',
+   'PYMODULE'),
+  ('urllib3.exceptions',
+   'E:\\projects\\амосрм '
+   'обнова\\venv\\Lib\\site-packages\\urllib3\\exceptions.py',
+   'PYMODULE'),
+  ('urllib3.contrib.pyopenssl',
+   'E:\\projects\\амосрм '
+   'обнова\\venv\\Lib\\site-packages\\urllib3\\contrib\\pyopenssl.py',
+   'PYMODULE'),
+  ('urllib3.contrib',
+   'E:\\projects\\амосрм '
+   'обнова\\venv\\Lib\\site-packages\\urllib3\\contrib\\__init__.py',
+   'PYMODULE'),
+  ('charset_normalizer',
+   'E:\\projects\\амосрм '
+   'обнова\\venv\\Lib\\site-packages\\charset_normalizer\\__init__.py',
+   'PYMODULE'),
+  ('charset_normalizer.version',
+   'E:\\projects\\амосрм '
+   'обнова\\venv\\Lib\\site-packages\\charset_normalizer\\version.py',
+   'PYMODULE'),
+  ('charset_normalizer.utils',
+   'E:\\projects\\амосрм '
+   'обнова\\venv\\Lib\\site-packages\\charset_normalizer\\utils.py',
+   'PYMODULE'),
+  ('charset_normalizer.constant',
+   'E:\\projects\\амосрм '
+   'обнова\\venv\\Lib\\site-packages\\charset_normalizer\\constant.py',
+   'PYMODULE'),
+  ('charset_normalizer.models',
+   'E:\\projects\\амосрм '
+   'обнова\\venv\\Lib\\site-packages\\charset_normalizer\\models.py',
+   'PYMODULE'),
+  ('charset_normalizer.cd',
+   'E:\\projects\\амосрм '
+   'обнова\\venv\\Lib\\site-packages\\charset_normalizer\\cd.py',
+   'PYMODULE'),
+  ('charset_normalizer.legacy',
+   'E:\\projects\\амосрм '
+   'обнова\\venv\\Lib\\site-packages\\charset_normalizer\\legacy.py',
+   'PYMODULE'),
+  ('charset_normalizer.api',
+   'E:\\projects\\амосрм '
+   'обнова\\venv\\Lib\\site-packages\\charset_normalizer\\api.py',
+   'PYMODULE'),
+  ('requests.exceptions',
+   'E:\\projects\\амосрм '
+   'обнова\\venv\\Lib\\site-packages\\requests\\exceptions.py',
+   'PYMODULE'),
+  ('urllib3',
+   'E:\\projects\\амосрм '
+   'обнова\\venv\\Lib\\site-packages\\urllib3\\__init__.py',
+   'PYMODULE'),
+  ('urllib3.contrib.emscripten',
+   'E:\\projects\\амосрм '
+   'обнова\\venv\\Lib\\site-packages\\urllib3\\contrib\\emscripten\\__init__.py',
+   'PYMODULE'),
+  ('urllib3.contrib.emscripten.connection',
+   'E:\\projects\\амосрм '
+   'обнова\\venv\\Lib\\site-packages\\urllib3\\contrib\\emscripten\\connection.py',
+   'PYMODULE'),
+  ('urllib3.contrib.emscripten.response',
+   'E:\\projects\\амосрм '
+   'обнова\\venv\\Lib\\site-packages\\urllib3\\contrib\\emscripten\\response.py',
+   'PYMODULE'),
+  ('urllib3.contrib.emscripten.request',
+   'E:\\projects\\амосрм '
+   'обнова\\venv\\Lib\\site-packages\\urllib3\\contrib\\emscripten\\request.py',
+   'PYMODULE'),
+  ('urllib3.contrib.emscripten.fetch',
+   'E:\\projects\\амосрм '
+   'обнова\\venv\\Lib\\site-packages\\urllib3\\contrib\\emscripten\\fetch.py',
+   'PYMODULE'),
+  ('jwt',
+   'E:\\projects\\амосрм обнова\\venv\\Lib\\site-packages\\jwt\\__init__.py',
+   'PYMODULE'),
+  ('jwt.jwks_client',
+   'E:\\projects\\амосрм обнова\\venv\\Lib\\site-packages\\jwt\\jwks_client.py',
+   'PYMODULE'),
+  ('jwt.jwk_set_cache',
+   'E:\\projects\\амосрм '
+   'обнова\\venv\\Lib\\site-packages\\jwt\\jwk_set_cache.py',
+   'PYMODULE'),
+  ('jwt.exceptions',
+   'E:\\projects\\амосрм обнова\\venv\\Lib\\site-packages\\jwt\\exceptions.py',
+   'PYMODULE'),
+  ('jwt.api_jwt',
+   'E:\\projects\\амосрм обнова\\venv\\Lib\\site-packages\\jwt\\api_jwt.py',
+   'PYMODULE'),
+  ('jwt.algorithms',
+   'E:\\projects\\амосрм обнова\\venv\\Lib\\site-packages\\jwt\\algorithms.py',
+   'PYMODULE'),
+  ('jwt.utils',
+   'E:\\projects\\амосрм обнова\\venv\\Lib\\site-packages\\jwt\\utils.py',
+   'PYMODULE'),
+  ('jwt.types',
+   'E:\\projects\\амосрм обнова\\venv\\Lib\\site-packages\\jwt\\types.py',
+   'PYMODULE'),
+  ('jwt.warnings',
+   'E:\\projects\\амосрм обнова\\venv\\Lib\\site-packages\\jwt\\warnings.py',
+   'PYMODULE'),
+  ('jwt.api_jws',
+   'E:\\projects\\амосрм обнова\\venv\\Lib\\site-packages\\jwt\\api_jws.py',
+   'PYMODULE'),
+  ('jwt.api_jwk',
+   'E:\\projects\\амосрм обнова\\venv\\Lib\\site-packages\\jwt\\api_jwk.py',
+   'PYMODULE'),
+  ('amocrm.v2',
+   'E:\\projects\\амосрм '
+   'обнова\\venv\\Lib\\site-packages\\amocrm\\v2\\__init__.py',
+   'PYMODULE'),
+  ('amocrm',
+   'E:\\projects\\амосрм обнова\\venv\\Lib\\site-packages\\amocrm\\__init__.py',
+   'PYMODULE'),
+  ('amocrm.v2.entity.user',
+   'E:\\projects\\амосрм '
+   'обнова\\venv\\Lib\\site-packages\\amocrm\\v2\\entity\\user.py',
+   'PYMODULE'),
+  ('amocrm.v2.interaction',
+   'E:\\projects\\амосрм '
+   'обнова\\venv\\Lib\\site-packages\\amocrm\\v2\\interaction.py',
+   'PYMODULE'),
+  ('amocrm.v2.filters',
+   'E:\\projects\\амосрм '
+   'обнова\\venv\\Lib\\site-packages\\amocrm\\v2\\filters.py',
+   'PYMODULE'),
+  ('amocrm.v2.entity.task',
+   'E:\\projects\\амосрм '
+   'обнова\\venv\\Lib\\site-packages\\amocrm\\v2\\entity\\task.py',
+   'PYMODULE'),
+  ('amocrm.v2.register',
+   'E:\\projects\\амосрм '
+   'обнова\\venv\\Lib\\site-packages\\amocrm\\v2\\register.py',
+   'PYMODULE'),
+  ('amocrm.v2.entity.tag',
+   'E:\\projects\\амосрм '
+   'обнова\\venv\\Lib\\site-packages\\amocrm\\v2\\entity\\tag.py',
+   'PYMODULE'),
+  ('amocrm.v2.entity.pipeline',
+   'E:\\projects\\амосрм '
+   'обнова\\venv\\Lib\\site-packages\\amocrm\\v2\\entity\\pipeline.py',
+   'PYMODULE'),
+  ('amocrm.v2.entity.lead',
+   'E:\\projects\\амосрм '
+   'обнова\\venv\\Lib\\site-packages\\amocrm\\v2\\entity\\lead.py',
+   'PYMODULE'),
+  ('amocrm.v2.entity.note',
+   'E:\\projects\\амосрм '
+   'обнова\\venv\\Lib\\site-packages\\amocrm\\v2\\entity\\note.py',
+   'PYMODULE'),
+  ('amocrm.v2.entity.events',
+   'E:\\projects\\амосрм '
+   'обнова\\venv\\Lib\\site-packages\\amocrm\\v2\\entity\\events.py',
+   'PYMODULE'),
+  ('amocrm.v2.entity.contact',
+   'E:\\projects\\амосрм '
+   'обнова\\venv\\Lib\\site-packages\\amocrm\\v2\\entity\\contact.py',
+   'PYMODULE'),
+  ('amocrm.v2.entity.company',
+   'E:\\projects\\амосрм '
+   'обнова\\venv\\Lib\\site-packages\\amocrm\\v2\\entity\\company.py',
+   'PYMODULE'),
+  ('amocrm.v2.entity.call',
+   'E:\\projects\\амосрм '
+   'обнова\\venv\\Lib\\site-packages\\amocrm\\v2\\entity\\call.py',
+   'PYMODULE'),
+  ('amocrm.v2.entity.custom_field',
+   'E:\\projects\\амосрм '
+   'обнова\\venv\\Lib\\site-packages\\amocrm\\v2\\entity\\custom_field.py',
+   'PYMODULE'),
+  ('amocrm.v2.model',
+   'E:\\projects\\амосрм '
+   'обнова\\venv\\Lib\\site-packages\\amocrm\\v2\\model.py',
+   'PYMODULE'),
+  ('amocrm.v2.manager',
+   'E:\\projects\\амосрм '
+   'обнова\\venv\\Lib\\site-packages\\amocrm\\v2\\manager.py',
+   'PYMODULE'),
+  ('amocrm.v2.fields',
+   'E:\\projects\\амосрм '
+   'обнова\\venv\\Lib\\site-packages\\amocrm\\v2\\fields.py',
+   'PYMODULE'),
+  ('amocrm.v2.links',
+   'E:\\projects\\амосрм '
+   'обнова\\venv\\Lib\\site-packages\\amocrm\\v2\\links.py',
+   'PYMODULE'),
+  ('amocrm.v2.entity',
+   'E:\\projects\\амосрм '
+   'обнова\\venv\\Lib\\site-packages\\amocrm\\v2\\entity\\__init__.py',
+   'PYMODULE'),
+  ('handlers.user',
+   'E:\\projects\\амосрм обнова\\handlers\\user.py',
+   'PYMODULE'),
+  ('handlers',
+   'E:\\projects\\амосрм обнова\\handlers\\__init__.py',
+   'PYMODULE'),
+  ('utils.user_state',
+   'E:\\projects\\амосрм обнова\\utils\\user_state.py',
+   'PYMODULE'),
+  ('utils', '-', 'PYMODULE'),
+  ('keyboard.reply',
+   'E:\\projects\\амосрм обнова\\keyboard\\reply.py',
+   'PYMODULE'),
+  ('keyboard',
+   'E:\\projects\\амосрм обнова\\keyboard\\__init__.py',
+   'PYMODULE'),
+  ('keyboard.text',
+   'E:\\projects\\амосрм обнова\\keyboard\\text.py',
+   'PYMODULE'),
+  ('handlers.func',
+   'E:\\projects\\амосрм обнова\\handlers\\func.py',
+   'PYMODULE'),
+  ('logging', 'C:\\python\\Lib\\logging\\__init__.py', 'PYMODULE'),
+  ('asyncio', 'C:\\python\\Lib\\asyncio\\__init__.py', 'PYMODULE'),
+  ('asyncio.unix_events',
+   'C:\\python\\Lib\\asyncio\\unix_events.py',
+   'PYMODULE'),
+  ('asyncio.windows_events',
+   'C:\\python\\Lib\\asyncio\\windows_events.py',
+   'PYMODULE'),
+  ('asyncio.windows_utils',
+   'C:\\python\\Lib\\asyncio\\windows_utils.py',
+   'PYMODULE'),
+  ('asyncio.selector_events',
+   'C:\\python\\Lib\\asyncio\\selector_events.py',
+   'PYMODULE'),
+  ('asyncio.proactor_events',
+   'C:\\python\\Lib\\asyncio\\proactor_events.py',
+   'PYMODULE'),
+  ('asyncio.base_subprocess',
+   'C:\\python\\Lib\\asyncio\\base_subprocess.py',
+   'PYMODULE'),
+  ('asyncio.threads', 'C:\\python\\Lib\\asyncio\\threads.py', 'PYMODULE'),
+  ('asyncio.timeouts', 'C:\\python\\Lib\\asyncio\\timeouts.py', 'PYMODULE'),
+  ('asyncio.taskgroups', 'C:\\python\\Lib\\asyncio\\taskgroups.py', 'PYMODULE'),
+  ('asyncio.subprocess', 'C:\\python\\Lib\\asyncio\\subprocess.py', 'PYMODULE'),
+  ('asyncio.runners', 'C:\\python\\Lib\\asyncio\\runners.py', 'PYMODULE'),
+  ('asyncio.base_events',
+   'C:\\python\\Lib\\asyncio\\base_events.py',
+   'PYMODULE'),
+  ('asyncio.trsock', 'C:\\python\\Lib\\asyncio\\trsock.py', 'PYMODULE'),
+  ('asyncio.staggered', 'C:\\python\\Lib\\asyncio\\staggered.py', 'PYMODULE'),
+  ('asyncio.sslproto', 'C:\\python\\Lib\\asyncio\\sslproto.py', 'PYMODULE'),
+  ('asyncio.transports',
+   'C:\\python\\Lib\\asyncio\\transports.py',
+   'PYMODULE')],
+ [('python311.dll', 'C:\\python\\python311.dll', 'BINARY'),
+  ('select.pyd', 'C:\\python\\DLLs\\select.pyd', 'EXTENSION'),
+  ('_hashlib.pyd', 'C:\\python\\DLLs\\_hashlib.pyd', 'EXTENSION'),
+  ('_lzma.pyd', 'C:\\python\\DLLs\\_lzma.pyd', 'EXTENSION'),
+  ('_bz2.pyd', 'C:\\python\\DLLs\\_bz2.pyd', 'EXTENSION'),
+  ('pyexpat.pyd', 'C:\\python\\DLLs\\pyexpat.pyd', 'EXTENSION'),
+  ('_ssl.pyd', 'C:\\python\\DLLs\\_ssl.pyd', 'EXTENSION'),
+  ('unicodedata.pyd', 'C:\\python\\DLLs\\unicodedata.pyd', 'EXTENSION'),
+  ('_decimal.pyd', 'C:\\python\\DLLs\\_decimal.pyd', 'EXTENSION'),
+  ('_multiprocessing.pyd',
+   'C:\\python\\DLLs\\_multiprocessing.pyd',
+   'EXTENSION'),
+  ('_socket.pyd', 'C:\\python\\DLLs\\_socket.pyd', 'EXTENSION'),
+  ('_ctypes.pyd', 'C:\\python\\DLLs\\_ctypes.pyd', 'EXTENSION'),
+  ('_queue.pyd', 'C:\\python\\DLLs\\_queue.pyd', 'EXTENSION'),
+  ('pydantic_core\\_pydantic_core.cp311-win_amd64.pyd',
+   'E:\\projects\\амосрм '
+   'обнова\\venv\\Lib\\site-packages\\pydantic_core\\_pydantic_core.cp311-win_amd64.pyd',
+   'EXTENSION'),
+  ('_uuid.pyd', 'C:\\python\\DLLs\\_uuid.pyd', 'EXTENSION'),
+  ('aiohttp\\_http_writer.cp311-win_amd64.pyd',
+   'E:\\projects\\амосрм '
+   'обнова\\venv\\Lib\\site-packages\\aiohttp\\_http_writer.cp311-win_amd64.pyd',
+   'EXTENSION'),
+  ('aiohttp\\_helpers.cp311-win_amd64.pyd',
+   'E:\\projects\\амосрм '
+   'обнова\\venv\\Lib\\site-packages\\aiohttp\\_helpers.cp311-win_amd64.pyd',
+   'EXTENSION'),
+  ('yarl\\_quoting_c.cp311-win_amd64.pyd',
+   'E:\\projects\\амосрм '
+   'обнова\\venv\\Lib\\site-packages\\yarl\\_quoting_c.cp311-win_amd64.pyd',
+   'EXTENSION'),
+  ('_asyncio.pyd', 'C:\\python\\DLLs\\_asyncio.pyd', 'EXTENSION'),
+  ('frozenlist\\_frozenlist.cp311-win_amd64.pyd',
+   'E:\\projects\\амосрм '
+   'обнова\\venv\\Lib\\site-packages\\frozenlist\\_frozenlist.cp311-win_amd64.pyd',
+   'EXTENSION'),
+  ('multidict\\_multidict.cp311-win_amd64.pyd',
+   'E:\\projects\\амосрм '
+   'обнова\\venv\\Lib\\site-packages\\multidict\\_multidict.cp311-win_amd64.pyd',
+   'EXTENSION'),
+  ('aiohttp\\_websocket.cp311-win_amd64.pyd',
+   'E:\\projects\\амосрм '
+   'обнова\\venv\\Lib\\site-packages\\aiohttp\\_websocket.cp311-win_amd64.pyd',
+   'EXTENSION'),
+  ('aiohttp\\_http_parser.cp311-win_amd64.pyd',
+   'E:\\projects\\амосрм '
+   'обнова\\venv\\Lib\\site-packages\\aiohttp\\_http_parser.cp311-win_amd64.pyd',
+   'EXTENSION'),
+  ('charset_normalizer\\md__mypyc.cp311-win_amd64.pyd',
+   'E:\\projects\\амосрм '
+   'обнова\\venv\\Lib\\site-packages\\charset_normalizer\\md__mypyc.cp311-win_amd64.pyd',
+   'EXTENSION'),
+  ('charset_normalizer\\md.cp311-win_amd64.pyd',
+   'E:\\projects\\амосрм '
+   'обнова\\venv\\Lib\\site-packages\\charset_normalizer\\md.cp311-win_amd64.pyd',
+   'EXTENSION'),
+  ('_overlapped.pyd', 'C:\\python\\DLLs\\_overlapped.pyd', 'EXTENSION'),
+  ('VCRUNTIME140.dll', 'C:\\python\\VCRUNTIME140.dll', 'BINARY'),
+  ('libcrypto-3.dll', 'C:\\python\\DLLs\\libcrypto-3.dll', 'BINARY'),
+  ('libssl-3.dll', 'C:\\python\\DLLs\\libssl-3.dll', 'BINARY'),
+  ('libffi-8.dll', 'C:\\python\\DLLs\\libffi-8.dll', 'BINARY')],
+ [],
+ [],
+ [('base_library.zip',
+   'E:\\projects\\амосрм обнова\\build\\main\\base_library.zip',
+   'DATA'),
+  ('certifi\\py.typed',
+   'E:\\projects\\амосрм обнова\\venv\\Lib\\site-packages\\certifi\\py.typed',
+   'DATA'),
+  ('certifi\\cacert.pem',
+   'E:\\projects\\амосрм обнова\\venv\\Lib\\site-packages\\certifi\\cacert.pem',
+   'DATA'),
+  ('attrs-23.2.0.dist-info\\INSTALLER',
+   'E:\\projects\\амосрм '
+   'обнова\\venv\\Lib\\site-packages\\attrs-23.2.0.dist-info\\INSTALLER',
+   'DATA'),
+  ('attrs-23.2.0.dist-info\\licenses\\LICENSE',
+   'E:\\projects\\амосрм '
+   'обнова\\venv\\Lib\\site-packages\\attrs-23.2.0.dist-info\\licenses\\LICENSE',
+   'DATA'),
+  ('attrs-23.2.0.dist-info\\METADATA',
+   'E:\\projects\\амосрм '
+   'обнова\\venv\\Lib\\site-packages\\attrs-23.2.0.dist-info\\METADATA',
+   'DATA'),
+  ('attrs-23.2.0.dist-info\\WHEEL',
+   'E:\\projects\\амосрм '
+   'обнова\\venv\\Lib\\site-packages\\attrs-23.2.0.dist-info\\WHEEL',
+   'DATA'),
+  ('attrs-23.2.0.dist-info\\RECORD',
+   'E:\\projects\\амосрм '
+   'обнова\\venv\\Lib\\site-packages\\attrs-23.2.0.dist-info\\RECORD',
+   'DATA')])

@@ -1,0 +1,24 @@
+from amocrm.v2 import tokens
+from aiogram import Bot, Dispatcher
+from aiogram.enums import ParseMode
+from aiogram.client.default import DefaultBotProperties
+
+from config import TOKEN
+
+
+bot = Bot(token=TOKEN, default=DefaultBotProperties(parse_mode=ParseMode.HTML))
+dp = Dispatcher()
+
+
+tokens.default_token_manager(
+    client_id="277730d0-4d37-4121-89d1-6e4d560b5347",
+    client_secret="fM3Y1pDEFMMB9fTthRBp82n1DCCXyKu0WjjNKoZdb5jiK99OIcTs5ETHevNrAD6c",
+    subdomain="stroirnd",
+    redirect_url="https://ya.ru",
+    storage=tokens.FileTokensStorage(),
+)
+# tokens.default_token_manager.init(
+#     code
+#     ="def50200714ba1f8f60b3465f4c0b02bd96e3d54cb2637f36ff9525dd486b44b33d6eff77648b04cf271c61cfc7f6860b38557d0cfd54b146e50ead81ef6b031332032f17d583daf66cdf8cb70df9a65110f0c9a9d33d55beb6f153b6ba0bac582ae8ea0843dfc222627c70a2a642b6955b405ced096a8d55eb9d7fd01db352e48b29432a819fe5c6a953c6334a6f0b5d263a6e170527420e7b26219d856f3de31de1726502d3db8e5905c8be0f8078ded18d1b6a2e76777a27b066217eb84f1d0a04d9ba635e8f622367e70039dde481150d63ca207df73ee536d57a47f571fe096d50782c9d8a4bfe8d13d332e1475b491b4640da81e0aa260b714290ba4829ca5480856a238b96e9fe2a8ef5411fc74cca6803567065448dd724b6e05b5d2eecca19f1558d8216a96aee5d3f6c590f1f917a63067de5bac1482704711f6ff52b301767ae105b1497f9b69c3749dccdb6363719a10e74042e5f5837a5006085862ee2f5aedfdf6236abe38c44bc98287fc7a8e80695c6b7b622f2f0161315c2b5def2b1499aa2cb3edd18228b5ef8a8ef0522e147c625e1278bd882fde3a6d0526b987505223759ee3e8771b427faaa5bdb91da1df30f468d15e535f8a19eb18c3706f785e6d9a8dc0c410f4b2983cc22ed2e2ece7f76afa0f58ba92",
+#     skip_error=False)
+
